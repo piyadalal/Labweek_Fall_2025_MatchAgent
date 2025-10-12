@@ -10,7 +10,7 @@ import tempfile
 load_dotenv()
 
 # Azure Blob setup
-conn_str = "DefaultEndpointsProtocol=https;AccountName=labweek3773blob;AccountKey=ZnxR+tNGUv6P0MeW3bTorJtfN3qGTJRmPXrifR7pSFn587O9hs79s0nFJ2hXBGqMThsHG1jgWa1L+AStc+Ekxw==;EndpointSuffix=core.windows.net"
+conn_str = os.getenv("AZURE_STORAGE_CONNECTION_STRING")
 container_name = "labweek3773blob"
 blob_name = "match_video_1.mp4"
 blob_service_client = BlobServiceClient.from_connection_string(conn_str)

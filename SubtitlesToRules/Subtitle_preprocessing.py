@@ -151,7 +151,7 @@ def sanity_check_weaviate_data(wv_client):
     for obj in results.objects:
         print(obj.properties)
 
-def query_goals(wv_client,limit=20, event_type="goal"):
+def query(wv_client,limit=20, event_type="goal"):
     """
     Query all football events where event_type is 'goal' from the Commentary collection.
     """
@@ -172,6 +172,50 @@ def query_goals(wv_client,limit=20, event_type="goal"):
         })
 
     return output
+
+
+def event_type_explanation(client, events,dir_path, filename):
+
+    formatted = []
+    for i, event in enumerate(events, 1):
+        parts = []
+        if event.get("player"):
+            parts.append(f"Player: {event['player']}")
+        if event.get("team"):
+            parts.append(f"Team: {event['team']}")
+        parts.append(f"Event: {event['event_type']}")
+        formatted.append(f"{i}. {' | '.join(parts)}")
+
+    prompt = (
+        "You are a football commentator explaining live match events to beginners. "
+        "For each event (goal, foul, offside, penalty, etc.), explain briefly what it means, "
+        "the rule behind it, and how it affects the match flow — in simple, clear terms. "
+        "Avoid repeating rule explanations for the same event type. "
+        "Focus on clarity, impact, and next actions.\n\n"
+        f"Here are the match events:\n{formatted}"
+    )
+
+
+    response = client.chat.completions.create(
+        model="gpt-4o",
+        messages=[{"role": "user", "content": prompt}],
+        temperature=0.5
+    )
+
+    explanation_text = response.choices[0].message.content
+
+    os.makedirs(dir_path, exist_ok=True)
+
+    # Full path to the file
+    file_path = os.path.join(dir_path, filename)
+
+    # Write the explanation text to the file
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(explanation_text)
+
+    print(f"Explanation saved to {file_path}")
+    return explanation_text
+
 
 
 # -------------------- Main Process --------------------
@@ -205,8 +249,8 @@ def main():
     )
     print("Connected to Weaviate Cloud:", wv_client.is_ready())
 
-    stl_file_path = "/Users/prda5207/PycharmProjects/Labweek_Fall_2025_MatchAgent/db/Data/TESTFeedforSTLsubtitlefile.stl"  # Replace with actual path
-    output_json = "/Users/prda5207/PycharmProjects/Labweek_Fall_2025_MatchAgent/Events_from_STLFile/gpt_outputs/event_extraction_output.json"
+    stl_file_path = "/SubtitlesToRules/Data/TESTFeedforSTLsubtitlefile.stl"  # Replace with actual path
+    output_json = "/Users/prda5207/PycharmProjects/Labweek_Fall_2025_MatchAgent/SubtitlesToRules/gpt_outputs/event_extraction_output.json"
 
     if not os.path.exists(stl_file_path):
         print(f" STL file not found: {stl_file_path}")
@@ -228,11 +272,15 @@ def main():
     with open(output_json, "r", encoding="utf-8") as f:
         try:
             data = json.load(f)
-            insert_to_weaviate(wv_client, data)
+            #insert_to_weaviate(wv_client, data)
         except json.JSONDecodeError:
             print("JSON decode error in saved output.")
+    events = query(wv_client, limit=5, event_type="penalty")
+    if events:
+        event_type_explanation(client, events, dir_path="/SubtitlesToRules/gpt_outputs/", filename="explanation.txt")
+    else:
+        print("No events found.")
 
-    print(query_goals(wv_client, limit=10,event_type="penalty"))
     wv_client.close()
     print("Processing complete.")
 
