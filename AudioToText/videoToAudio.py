@@ -6,7 +6,7 @@ import io
 from dotenv import load_dotenv
 import tempfile
 
-# Load environment variables from .env file
+
 load_dotenv()
 
 # Azure Blob setup
