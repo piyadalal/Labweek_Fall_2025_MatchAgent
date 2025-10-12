@@ -1,0 +1,31 @@
+weaviate-client
+python-dotenv  # if using .env for secrets
+openai         # if using manual embedding
+# For CPU only
+# for M1 pip install torch==2.1.0 torchvision==0.16.1 torchaudio==2.1.2 --index-url https://download.pytorch.org/whl/cpu
+# PyTorch + M1 compatible
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+
+# Hugging Face
+transformers==4.57.0
+tokenizers==0.19.0
+huggingface-hub==0.17.4
+
+# Data processing
+numpy==1.26.0
+pandas==2.0.3
+
+# HTTP / async utilities
+httpx==0.24.1
+httpcore==0.17.1
+anyio==3.7.1
+
+# OpenAI API
+openai==1.12.0
+
+# Optional: pydantic for data validation
+pydantic==2.7.0
+
+
