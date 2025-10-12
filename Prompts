@@ -1,0 +1,22 @@
+prompt = f"""
+    Extract football match events from the following text:
+    {chunk}
+
+    For each event, return JSON with fields: timestamp (if mentioned), event_type
+    (goal, foul, penalty, substitution, offside, free kick, yellow/red card, corner, injury),
+    player (if mentioned), team (if mentioned). Return as a list of objects.
+    """
+
+
+prompt = (
+            "You are a football analyst providing a live explanation of a football match to a new audience. "
+            "As events like goals, fouls, offsides, or penalties occur, explain what each event means in the context of the game. "
+            "Describe the relevant football rules and penalties in simple terms, especially focusing on how these events impact the flow of the match.\n\n"
+            "For example, explain what a foul is, why it leads to a free kick or penalty, and how an offside can result in a free kick for the opposing team. "
+            "Clarify the consequences of these events, and highlight any special advantages or game situations that follow (e.g., 'If a player commits a foul inside the penalty area, the opposing team gets a penalty kick').\n\n"
+            "Use clear, accessible language to help people new to football understand the importance and implications of each event.\n\n"
+            "Here are the match events:\n"
+            + "\n".join(formatted) +
+            "do not repeat event types for rule explanations"
+            "\n\nPlease provide a numbered list of explanations, focusing on the rules, impact, and any subsequent actions or advantages."
+    )
