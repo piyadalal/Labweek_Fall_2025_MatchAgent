@@ -27,23 +27,23 @@ This project enables automatic extraction and analysis of football match events 
 
 ## Setup Instructions
 
- Clone the repository
+- Clone the repository
 
 git clone https://github.com/your-username/MatchEventExtractor.git
 cd MatchEventExtractor
 
-Install the dependencies: 
+- Install the dependencies: 
 pip install -r requirements.txt
 
-Azure Setup: 
+- Azure Setup: 
 Deploy a gpt 4o model and get its endpoint and API keys
 
 
-Weaviate Setup
+- Weaviate Setup
 Create a Weaviate Cloud Cluster
 Go to Weaviate Cloud Console and Create a new cluster and note down your Cluster URL and API Key.
 
-Create a .env file with your keys:
+- Create a .env file with your keys:
 azure_endpoint_gpt4o=YOUR_AZURE_OPENAI_ENDPOINT
 azure_endpoint_gpt4o_key=YOUR_AZURE_OPENAI_KEY
 OPENAI_API_KEY=YOUR_OPENAI_API_KEY
