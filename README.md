@@ -1,6 +1,6 @@
 # Labweek_Fall_2025_MatchAgent
 
-# ⚽ MatchEventExtractor
+# MatchEventExtractor
 
 A Python-based pipeline to extract, store, and explain key football match events from subtitle files using GPT-4o and Weaviate.
 
@@ -25,7 +25,7 @@ This project enables automatic extraction and analysis of football match events 
 
 ---
 
-Setup Instructions
+## Setup Instructions
 
  Clone the repository
 
