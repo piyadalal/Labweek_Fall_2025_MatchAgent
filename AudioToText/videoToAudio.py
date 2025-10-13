@@ -1,3 +1,4 @@
+
 import subprocess
 from azure.storage.blob import BlobServiceClient, BlobClient
 import os
@@ -15,16 +16,23 @@ container_name = "labweek3773blob"
 blob_name = "match_video_1.mp4"
 blob_service_client = BlobServiceClient.from_connection_string(conn_str)
 
-# ONE TIME UPLOAD
+# ONE TIME UPLOAD - Create container if it doesn't exist
 try:
     blob_service_client.create_container(container_name)
+    print(f"Created container: {container_name}")
 except Exception as e:
-    print("Container may already exist:", e)
+    print(f"Container already exists: {e}")
 
 blob_client = blob_service_client.get_blob_client(container=container_name, blob=blob_name)
-file = "/Users/prda5207/PycharmProjects/Labweek_Fall_2025_MatchAgent/AudioToText/Data/TEST Feed for STL subtitle file.mp4"
 
-print(f"Uploaded {file} to blob {blob_name} in container {container_name}")
+# Path to your local video file
+local_video_path = "/Users/prda5207/PycharmProjects/Labweek_Fall_2025_MatchAgent/AudioToText/Data/TEST Feed for STL subtitle file.mp4"
+
+# Actually upload the file to blob storage
+print(f"Uploading {local_video_path} to blob storage...")
+with open(local_video_path, "rb") as data:
+    blob_client.upload_blob(data, overwrite=True)
+print(f"Successfully uploaded to blob {blob_name} in container {container_name}")
 
 # Load credentials from environment
 whisper_key = os.getenv("Whisper_key")
@@ -85,6 +93,7 @@ try:
         transcription = client.audio.transcriptions.create(
             model=whisper_deployment,
             file=audio_file,
+            language="de",
             response_format="json"
         )
 
