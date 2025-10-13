@@ -1,23 +1,22 @@
-from Weaviate_db.client import get_client_cloud
+from . import client
+from weaviate.classes.config import Property, DataType
 
-client = get_client_cloud()
 
-# Define the class schema
-class_schema = {
-    "class": "Commentary",
-    "vectorizer": "none",  # Provide your own embeddings
-    "properties": [
-        {"name": "text", "dataType": ["text"]},
-        {"name": "timestamp", "dataType": ["string"]},
-        {"name": "player", "dataType": ["text"]},  # optional
-        {"name": "team", "dataType": ["text"]}     # optional
-    ]
-}
+def create_commentary_schema():
+    wv_client = client.get_client_cloud()
+    print("Connected to Weaviate Cloud:", wv_client.is_ready())
 
-# Check if class exists
-existing_classes = [c["class"] for c in client.schema.get()["classes"]]
-if "Commentary" not in existing_classes:
-    client.schema.create_class(class_schema)
-    print("Class 'Commentary' created!")
-else:
-    print("Class 'Commentary' already exists.")
+    if "ImageData" not in [c for c in wv_client.collections.list_all()]:
+        wv_client.collections.create(
+            name="ImageData",
+            properties=[
+                Property(name="event_type", data_type=DataType.TEXT),
+                Property(name="explanation", data_type=DataType.TEXT),
+                Property(name="image", data_type=DataType.TEXT),
+            ]
+        )
+        print("✓ Created 'ImageData' collection with properties: event_type, explanation, image")
+    else:
+        print("✓ 'ImageData' collection already exists.")
+
+    wv_client.close()

@@ -1,17 +1,14 @@
-def insert_events(client, events):
-    """
-    events: List of dicts like
-    {"timestamp": "00:12", "event_type": "goal", "player_team": "Player X", "commentary_chunk": "..."}
-    """
-    collection = client.collections.get("Event")
+from Weaviate_db.client import get_client_cloud
 
-    for e in events:
-        collection.data.insert(
-            properties={
-                "timestamp": e.get("timestamp", ""),
-                "event_type": e.get("event", ""),
-                "player_team": e.get("player_team", ""),
-                "commentary_chunk": e.get("commentary_chunk", "")
-            }
-        )
-    print(f"{len(events)} events inserted.")
+def insert_events(events):
+    """
+    events: List of dicts with keys: event_type, explanation, image
+    """
+    wv_client = get_client_cloud()
+    collection = wv_client.collections.get("ImageData")
+
+    for event in events:
+        collection.data.insert(event)
+
+    print(f"✓ {len(events)} events inserted into 'ImageData' collection.")
+    wv_client.close()
