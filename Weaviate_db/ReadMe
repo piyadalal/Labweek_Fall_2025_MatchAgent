@@ -1,0 +1,26 @@
+##Event Commentary Data Insertion
+
+This script creates a Weaviate schema for storing commentary events (e.g., goals, penalties, etc.) and inserts structured event data, including explanations and image paths.
+
+project/
+├── Data/
+│   └── gemini/
+│       ├── goal_.img
+│       ├── penalty_.img
+│       ├── foul_.img
+│       └── redcard_.img
+├── schema.py
+├── insert.py
+└── main.py
+
+Dependencies:
+Weaviate client- installed
+
+A running Weaviate instance (local or cloud)
+pip install weaviate-client
+
+Files:
+schema.py: Defines the Weaviate schema for the ImageData collection.
+insert.py: Handles the insertion of event data into Weaviate.
+main.py: Runs the script.
+
