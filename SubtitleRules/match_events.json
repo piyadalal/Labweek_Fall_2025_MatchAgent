@@ -1,0 +1,1794 @@
+[
+  {
+    "raw_text": "The provided commentary text does not explicitly mention specific football match events such as goals, fouls, penalties, substitutions, offsides, free kicks, yellow/red cards, corners, or injuries. Instead, it primarily discusses pre-match analysis, team formations, player availability, and general observations. However, I will extract relevant information based on the commentary and format it into JSON objects where applicable.\n\n```json\n[\n  {\n    \"timestamp\": \"00:03:33:10\",\n    \"event_type\": \"yellow card\",\n    \"player\": \"Wolf\",\n    \"team\": \"Dortmund\"\n  },\n  {\n    \"timestamp\": \"00:03:39:03\",\n    \"event_type\": \"yellow card suspension\",\n    \"player\": \"Can\",\n    \"team\": \"Dortmund\"\n  },\n  {\n    \"timestamp\": \"00:03:41:25\",\n    \"event_type\": \"injury\",\n    \"player\": \"Witsel\",\n    \"team\": \"Dortmund\"\n  },\n  {\n    \"timestamp\": \"00:04:24:27\",\n    \"event_type\": \"personal update\",\n    \"player\": \"Gamboa\",\n    \"team\": \"Bochum\"\n  },\n  {\n    \"timestamp\": \"00:04:32:00\",\n    \"event_type\": \"injury\",\n    \"player\": \"Suarez\",\n    \"team\": \"Bochum\"\n  },\n  {\n    \"timestamp\": \"00:06:00:23\",\n    \"event_type\": \"player focus\",\n    \"player\": \"Bino Gittens\",\n    \"team\": \"Dortmund\"\n  }\n]\n```\n\n### Explanation:\n1. **Yellow Card**: Wolf is mentioned as carrying 4 yellow cards, which is relevant to match events.\n2. **Yellow Card Suspension**: Can is unavailable due to suspension from accumulating 5 yellow cards.\n3. **Injury**: Witsel is recovering from an infection, which impacts his availability.\n4. **Personal Update**: Gamboa is noted for expecting a personal milestone (becoming a father), which is tangentially related to match events.\n5. **Injury**: Suarez is unavailable due to hip problems.\n6. **Player Focus**: Bino Gittens is highlighted as a young player to watch, which could be relevant to match dynamics.\n\nIf you have additional commentary with explicit match events, I can refine the extraction further."
+  },
+  {
+    "timestamp": "00:08:06:05",
+    "event_type": "kickoff",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:09:00:11",
+    "event_type": "chance",
+    "player": "Pantovic",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:09:37:20",
+    "event_type": "offside",
+    "player": "Erling Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:10:21:03",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:11:40",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": null
+  },
+  {
+    "timestamp": "00:11:50",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": null
+  },
+  {
+    "timestamp": "00:11:57",
+    "event_type": "penalty",
+    "player": "Molter",
+    "team": null
+  },
+  {
+    "timestamp": "00:13:07",
+    "event_type": "goal",
+    "player": "Ponyta",
+    "team": null
+  },
+  {
+    "timestamp": "00:15:29",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VFL Bochum"
+  },
+  {
+    "timestamp": "00:16:01",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": "VFL Bochum"
+  },
+  {
+    "timestamp": "00:16:09",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VFL Bochum"
+  },
+  {
+    "timestamp": "00:16:32",
+    "event_type": "assist",
+    "player": "Takuma Asano",
+    "team": "VFL Bochum"
+  },
+  {
+    "timestamp": "00:17:49:10",
+    "event_type": "substitution",
+    "player": "Jamie Bynow-Giddens",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:17:51:13",
+    "event_type": "substitution",
+    "player": "Jamie Bynow-Giddens",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:20:27:00",
+    "event_type": "goal",
+    "player": "Sebastian Bolter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:22:47:00",
+    "event_type": "goal",
+    "player": "Sebastian Bolter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:22:49:13",
+    "event_type": "goal",
+    "player": "Julian Brandt",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:18:18:19",
+    "event_type": "foul",
+    "player": "Holtmann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:23:27:14",
+    "event_type": "goal",
+    "player": "Wolfsburg player",
+    "team": "Wolfsburg"
+  },
+  {
+    "timestamp": "00:24:26:22",
+    "event_type": "penalty",
+    "player": "Erling Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:26:00:21",
+    "event_type": "goal",
+    "player": "Erling Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:28:30:07",
+    "event_type": "chance",
+    "player": "Julian Brandt",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:28:31:19",
+    "event_type": "save",
+    "player": "Riemann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:29:01:24",
+    "event_type": "missed_chance",
+    "player": "Julian Brandt",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:30:04:12",
+    "event_type": "free kick",
+    "player": "Marco Reus",
+    "team": null
+  },
+  {
+    "timestamp": "00:30:35:24",
+    "event_type": "goal",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "00:30:38:02",
+    "event_type": "corner",
+    "player": "Brandt",
+    "team": null
+  },
+  {
+    "timestamp": "00:31:25:17",
+    "event_type": "yellow card",
+    "player": "Bellinger",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:34:05:24",
+    "event_type": "offside",
+    "player": "Reus",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:34:40:07",
+    "event_type": "corner",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "00:35:50:11",
+    "event_type": "penalty",
+    "player": "Harland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "raw_text": "Here is the extracted list of football match events in JSON format:\n\n```json\n[\n    {\n        \"timestamp\": \"00:36:13:28\",\n        \"event_type\": \"handball\",\n        \"player\": \"Harland\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:36:22:24\",\n        \"event_type\": \"penalty\",\n        \"player\": null,\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:36:30:24\",\n        \"event_type\": \"penalty caused\",\n        \"player\": \"Pantowitsch\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:37:11:05\",\n        \"event_type\": \"penalty scored\",\n        \"player\": \"Haaland\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"00:37:19:29\",\n        \"event_type\": \"goal\",\n        \"player\": \"Haaland\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"00:38:01:18\",\n        \"event_type\": \"handball\",\n        \"player\": \"Brexwitschheim\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:38:03:29\",\n        \"event_type\": \"referee decision\",\n        \"player\": \"Tobias Welz\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:39:06:30\",\n        \"event_type\": \"yellow card\",\n        \"player\": \"Lucia\",\n        \"team\": \"Bochum\"\n    },\n    {\n        \"timestamp\": \"00:39:08:27\",\n        \"event_type\": \"yellow card\",\n        \"player\": \"Berlin\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:40:03:05\",\n        \"event_type\": \"offside\",\n        \"player\": \"Bernd\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:41:19:27\",\n        \"event_type\": \"handball claimed\",\n        \"player\": \"Rex Pichai\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:42:17:24\",\n        \"event_type\": \"injury\",\n        \"player\": \"Marschowitsch\",\n        \"team\": null\n    }\n]\n```\n\nThis list captures the key events mentioned in the commentary, along with the associated timestamps, event types, players, and teams (if available)."
+  },
+  {
+    "timestamp": "00:42:29:13",
+    "event_type": "yellow card",
+    "player": "Marszowitsz",
+    "team": null
+  },
+  {
+    "timestamp": "00:42:44:08",
+    "event_type": "injury",
+    "player": "Haaland",
+    "team": null
+  },
+  {
+    "timestamp": "00:45:00:04",
+    "event_type": "goal",
+    "player": "Haaland",
+    "team": null
+  },
+  {
+    "timestamp": "00:46:04:04",
+    "event_type": "offside",
+    "player": "Haaland",
+    "team": null
+  },
+  {
+    "timestamp": "00:50:29:01",
+    "event_type": "goal",
+    "player": "Bolter",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "00:50:30:12",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "00:51:00",
+    "event_type": "penalty",
+    "player": "Pantowitsch",
+    "team": null
+  },
+  {
+    "timestamp": "00:51:03",
+    "event_type": "penalty",
+    "player": "Reksmitschei",
+    "team": null
+  },
+  {
+    "timestamp": "00:51:18",
+    "event_type": "penalty scored",
+    "player": "Harland",
+    "team": null
+  },
+  {
+    "timestamp": "00:51:55",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:51:55",
+    "event_type": "shot",
+    "player": "Marco Reus",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:52:07",
+    "event_type": "corner",
+    "player": null,
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:52:31",
+    "event_type": "corner",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:54:00",
+    "event_type": "shot",
+    "player": "Wolf",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:54:00",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:54:05",
+    "event_type": "shot",
+    "player": "Holkmann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:54:05",
+    "event_type": "shot",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:55:02",
+    "event_type": "pass",
+    "player": "Bellingen",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:55:02",
+    "event_type": "shot",
+    "player": "Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:55:02",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:59:24:25",
+    "event_type": "match_start",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "01:00:49:11",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:00:58:19",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:01:25:11",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:01:28:23",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:01:44:05",
+    "event_type": "goal",
+    "player": "Gerrit",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:02:01:22",
+    "event_type": "handball",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "01:02:11:29",
+    "event_type": "penalty",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "01:02:30:11",
+    "event_type": "goal",
+    "player": "Haaland",
+    "team": null
+  },
+  {
+    "timestamp": "01:02:38:14",
+    "event_type": "foul",
+    "player": "Wolf",
+    "team": null
+  },
+  {
+    "timestamp": "01:02:54:26",
+    "event_type": "handball",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "01:03:04:06",
+    "event_type": "penalty",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": null,
+    "event_type": "goal",
+    "player": null,
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": null,
+    "event_type": "match_status",
+    "player": null,
+    "team": null,
+    "details": "2-2 at halftime"
+  },
+  {
+    "timestamp": null,
+    "event_type": "team_status",
+    "player": null,
+    "team": "VfL Bochum",
+    "details": "Bochum likely to secure league survival"
+  },
+  {
+    "timestamp": "01:04:58:06",
+    "event_type": "goal",
+    "player": "Bayern",
+    "team": "Bayern Munich"
+  },
+  {
+    "timestamp": "01:11:13:06",
+    "event_type": "goal",
+    "player": "Norweger",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:11:15:12",
+    "event_type": "goal",
+    "player": "Norweger",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:12:10:06",
+    "event_type": "injury",
+    "player": "Zagadou",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:12:47:08",
+    "event_type": "penalty",
+    "player": "Harlan",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:13:17:05",
+    "event_type": "goal",
+    "player": "Bolter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:13:17:05",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:13:46:09",
+    "event_type": "foul",
+    "player": "Asano",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:14:12:04",
+    "event_type": "foul",
+    "player": "Marschowitsch",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:14:13:10",
+    "event_type": "foul",
+    "player": "Harland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:14:42:26",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": null
+  },
+  {
+    "timestamp": "01:15:05:05",
+    "event_type": "substitution",
+    "player": "Boromar",
+    "team": null
+  },
+  {
+    "timestamp": "01:15:24:05",
+    "event_type": "nomination",
+    "player": "Sebastian Polter",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:03:22",
+    "event_type": "foul",
+    "player": "Guerrero",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:12:24",
+    "event_type": "dribble",
+    "player": "Pantowitsch",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:38:28",
+    "event_type": "steal",
+    "player": "Lucia",
+    "team": null
+  },
+  {
+    "timestamp": "01:17:39:29",
+    "event_type": "set piece",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:18:02:17",
+    "event_type": "offside",
+    "player": "Gamboa",
+    "team": null
+  },
+  {
+    "timestamp": "01:18:30:21",
+    "event_type": "dribble",
+    "player": "Beino Gittens",
+    "team": null
+  },
+  {
+    "timestamp": "01:19:00:14",
+    "event_type": "corner",
+    "player": "Julia Watt",
+    "team": null
+  },
+  {
+    "timestamp": "01:19:48:14",
+    "event_type": "foul",
+    "player": "Berlinger",
+    "team": null
+  },
+  {
+    "timestamp": "01:19:55:06",
+    "event_type": "counterattack",
+    "player": null,
+    "team": "VfL"
+  },
+  {
+    "timestamp": "01:20:54:01",
+    "event_type": "offensive play",
+    "player": "Polta",
+    "team": null
+  },
+  {
+    "timestamp": "01:21:05:04",
+    "event_type": "good play",
+    "player": "Reus",
+    "team": null
+  },
+  {
+    "timestamp": "01:21:11:08",
+    "event_type": "pass",
+    "player": "Guerrero",
+    "team": null
+  },
+  {
+    "timestamp": "01:21:42:20",
+    "event_type": "yellow card",
+    "player": "Boccon",
+    "team": "Bochumer"
+  },
+  {
+    "timestamp": "01:22:09:15",
+    "event_type": "corner",
+    "player": null,
+    "team": "Torfeld"
+  },
+  {
+    "timestamp": "01:22:36:07",
+    "event_type": "block",
+    "player": "Bano Gittens",
+    "team": null
+  },
+  {
+    "timestamp": "01:22:45:09",
+    "event_type": "defensive play",
+    "player": "Bockhorn",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:24:00:17",
+    "event_type": "block",
+    "player": "Maxim Bleich",
+    "team": null
+  },
+  {
+    "timestamp": "01:24:14:22",
+    "event_type": "defensive play",
+    "player": "Herbert Bockhorn",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:24:18:06",
+    "event_type": "corner",
+    "player": "Brandt",
+    "team": null
+  },
+  {
+    "timestamp": "01:26:15:08",
+    "event_type": "shot",
+    "player": "Harland",
+    "team": null
+  },
+  {
+    "timestamp": "01:26:29:01",
+    "event_type": "save",
+    "player": "Manuel",
+    "team": null
+  },
+  {
+    "timestamp": "01:27:00:16",
+    "event_type": "foul",
+    "player": "Zagadou",
+    "team": null
+  },
+  {
+    "timestamp": "01:27:22:30",
+    "event_type": "corner",
+    "player": null,
+    "team": "VfL"
+  },
+  {
+    "timestamp": "01:28:35:12",
+    "event_type": "attempt",
+    "player": "Harland",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:28:42:26",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:29:34:04",
+    "event_type": "goal",
+    "player": "Reus",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:30:01:19",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:31:07:19",
+    "event_type": "substitution",
+    "player": "Beino Gittens",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:31:07:19",
+    "event_type": "substitution",
+    "player": "Felix Baslak",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:31:27:00",
+    "event_type": "substitution",
+    "player": "Pantowicz",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:31:27:00",
+    "event_type": "substitution",
+    "player": "Holtmann",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:32:09:19",
+    "event_type": "injury",
+    "player": "Oldmann",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:32:51:17",
+    "event_type": "goal",
+    "player": "Reus",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:33:12:11",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:33:47:08",
+    "event_type": "substitution",
+    "player": "Paslak",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:33:47:08",
+    "event_type": "substitution",
+    "player": "Baino Gittens",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:34:45:17",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:35:53:24",
+    "event_type": "goal",
+    "player": "Christopher-Antwi Andrzej",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:37:12:06",
+    "event_type": "offside",
+    "player": "Anfi Ajey",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:38:54:21",
+    "event_type": "substitution",
+    "player": "Asano",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:38:54:21",
+    "event_type": "substitution",
+    "player": "Zoller",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:38:54:21",
+    "event_type": "substitution",
+    "player": "Lokadia",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:39:43:00",
+    "event_type": "goal",
+    "player": "Polta",
+    "team": null
+  },
+  {
+    "timestamp": "01:40:19:21",
+    "event_type": "substitution",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:40:19:21",
+    "event_type": "substitution",
+    "player": null,
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:42:14:20",
+    "event_type": "formation_change",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:42:46:19",
+    "event_type": "foul",
+    "player": "Paslak",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:43:15:19",
+    "event_type": "handball_claim",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:43:50:00",
+    "event_type": "save",
+    "player": "Marwin Hitz",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:43:55:10",
+    "event_type": "header",
+    "player": "Simon Zoller",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:45:31:16",
+    "event_type": "attack",
+    "player": "Harlan, Brandt, Reus",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:46:00:00",
+    "event_type": "foul",
+    "player": "Andrija Cey",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:46:23:15",
+    "event_type": "goal",
+    "player": null,
+    "team": "Hamburger Sportverein"
+  },
+  {
+    "timestamp": "01:48:33:10",
+    "event_type": "goal",
+    "player": "Luka Nia",
+    "team": null
+  },
+  {
+    "timestamp": "01:48:52:29",
+    "event_type": "goal",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:48:59:11",
+    "event_type": "goal",
+    "player": "Lokadia",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:50:16:26",
+    "event_type": "foul",
+    "player": "Maršović",
+    "team": null
+  },
+  {
+    "timestamp": "01:50:16:26",
+    "event_type": "yellow card",
+    "player": "Maršović",
+    "team": null
+  },
+  {
+    "timestamp": "01:51:17:11",
+    "event_type": "substitution",
+    "player": "Guerrero",
+    "team": null
+  },
+  {
+    "timestamp": "01:51:17:11",
+    "event_type": "substitution",
+    "player": "Wolf",
+    "team": null
+  },
+  {
+    "timestamp": "01:51:33:25",
+    "event_type": "substitution",
+    "player": "Eduard Löwen",
+    "team": "Hertha BSC"
+  },
+  {
+    "timestamp": "01:52:25:26,01:52:27:26",
+    "event_type": "penalty",
+    "player": null,
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:52:45:12,01:52:46:06",
+    "event_type": "handball",
+    "player": "Witsel",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:53:13:00,01:53:15:25",
+    "event_type": "goal",
+    "player": "Pantovic",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:56:00:05,01:56:01:30",
+    "event_type": "yellow card",
+    "player": "Tom Rothe",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:57:19:29,01:57:21:28",
+    "event_type": "goal",
+    "player": "Tom Rothe",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "raw_text": "Here is the extracted list of football match events in JSON format:\n\n```json\n[\n    {\n        \"timestamp\": \"01:58:16:16\",\n        \"event_type\": \"goal\",\n        \"player\": \"Derren Buckley\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:58:29:26\",\n        \"event_type\": \"goal\",\n        \"player\": \"Anneka Stropper\",\n        \"team\": \"Bayern\",\n        \"score\": \"4-2\"\n    },\n    {\n        \"timestamp\": \"01:58:52:04\",\n        \"event_type\": \"foul\",\n        \"player\": \"René\",\n        \"team\": \"Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:59:37:25\",\n        \"event_type\": \"yellow card\",\n        \"player\": \"Rote\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"02:00:13:10\",\n        \"event_type\": \"foul\",\n        \"player\": \"Papadopoulos\",\n        \"team\": \"Stuttgart\"\n    },\n    {\n        \"timestamp\": \"02:00:33:21\",\n        \"event_type\": \"yellow card\",\n        \"player\": \"Papadopoulos\",\n        \"team\": \"Stuttgart\"\n    },\n    {\n        \"timestamp\": \"02:01:24:11\",\n        \"event_type\": \"save\",\n        \"player\": \"Riemann\",\n        \"team\": \"VfL Bochum\"\n    },\n    {\n        \"timestamp\": \"02:02:31:11\",\n        \"event_type\": \"goal\",\n        \"player\": \"Harland\",\n        \"team\": \"Borussia Dortmund\",\n        \"score\": \"4-3\"\n    },\n    {\n        \"timestamp\": \"02:04:10:11\",\n        \"event_type\": \"goal\",\n        \"player\": null,\n        \"team\": \"Dortmund\",\n        \"score\": \"3-2\"\n    },\n    {\n        \"timestamp\": \"02:04:12:17\",\n        \"event_type\": \"goal\",\n        \"player\": null,\n        \"team\": \"Bochum\",\n        \"score\": \"4-3\"\n    }\n]\n```\n\nThis list includes the key events mentioned in the commentary, such as goals, fouls, yellow cards, and saves, along with the associated timestamps, players, and teams where available."
+  },
+  {
+    "raw_text": "The provided commentary text does not explicitly mention specific football match events such as goals, fouls, penalties, substitutions, offsides, free kicks, yellow/red cards, corners, or injuries. However, it does provide information about team lineups, formations, and player availability. Based on the text, here is a list of JSON objects extracted from the commentary:\n\n```json\n[\n  {\n    \"timestamp\": \"00:03:27:01\",\n    \"event_type\": \"player_unavailable\",\n    \"player\": \"Kobel\",\n    \"team\": \"Dortmund\"\n  },\n  {\n    \"timestamp\": \"00:03:39:03\",\n    \"event_type\": \"yellow_card_suspension\",\n    \"player\": \"Can\",\n    \"team\": \"Dortmund\"\n  },\n  {\n    \"timestamp\": \"00:03:41:25\",\n    \"event_type\": \"player_recovered\",\n    \"player\": \"Witsel\",\n    \"team\": \"Dortmund\"\n  },\n  {\n    \"timestamp\": \"00:04:18:28\",\n    \"event_type\": \"player_rest\",\n    \"player\": \"Bela Kocap\",\n    \"team\": \"Bochum\"\n  },\n  {\n    \"timestamp\": \"00:04:24:27\",\n    \"event_type\": \"personal_event\",\n    \"player\": \"Gamboa\",\n    \"team\": \"Bochum\"\n  },\n  {\n    \"timestamp\": \"00:04:32:00\",\n    \"event_type\": \"player_injury\",\n    \"player\": \"Suarez\",\n    \"team\": \"Bochum\"\n  },\n  {\n    \"timestamp\": \"00:06:00:23\",\n    \"event_type\": \"player_focus\",\n    \"player\": \"Bino Gittens\",\n    \"team\": \"Dortmund\"\n  }\n]\n```\n\n### Explanation:\n1. **Player Unavailability**: Kobel is mentioned as \"not spielfähig\" (not fit to play).\n2. **Yellow Card Suspension**: Can is unavailable due to receiving his fifth yellow card.\n3. **Player Recovery**: Witsel is back after recovering from an infection.\n4. **Player Rest**: Bela Kocap is given a pause (rest).\n5. **Personal Event**: Gamboa is mentioned as expecting to become a father soon.\n6. **Player Injury**: Suarez is unavailable due to hip problems.\n7. **Player Focus**: Bino Gittens is highlighted as a young player to watch.\n\nIf you have additional commentary text with explicit match events, I can further refine the extraction process."
+  },
+  {
+    "timestamp": "00:08:06:05",
+    "event_type": "kickoff",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:09:00:11",
+    "event_type": "chance",
+    "player": "Pantovic",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:09:37:20",
+    "event_type": "offside",
+    "player": "Erling Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:10:21:03",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:11:19:29",
+    "event_type": "foul",
+    "player": "Asano",
+    "team": null
+  },
+  {
+    "timestamp": "00:11:38:00",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": null
+  },
+  {
+    "timestamp": "00:11:50:00",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": null
+  },
+  {
+    "timestamp": "00:11:57:14",
+    "event_type": "penalty",
+    "player": "Molter",
+    "team": null
+  },
+  {
+    "timestamp": "00:13:07:08",
+    "event_type": "goal",
+    "player": "Ponyta",
+    "team": null
+  },
+  {
+    "timestamp": "00:15:29:27",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VFL Bochum"
+  },
+  {
+    "timestamp": "00:16:01:13",
+    "event_type": "offside",
+    "player": "Asano",
+    "team": null
+  },
+  {
+    "timestamp": "00:16:19:09",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VFL Bochum"
+  },
+  {
+    "timestamp": "00:16:32:17",
+    "event_type": "assist",
+    "player": "Takuma Asano",
+    "team": "VFL Bochum"
+  },
+  {
+    "timestamp": "00:17:49:10",
+    "event_type": "substitution",
+    "player": "Jamie Bynow-Giddens",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:17:51:13",
+    "event_type": "substitution",
+    "player": "Jamie Bynow-Giddens",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:18:42:06",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:18:44:13",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:19:00:20",
+    "event_type": "goal",
+    "player": "Sebastian Bolter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:20:27:00",
+    "event_type": "goal",
+    "player": "Sebastian Bolter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:22:47:00",
+    "event_type": "goal",
+    "player": "Brandt",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:22:49:13",
+    "event_type": "goal",
+    "player": "Brandt",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:24:26:22",
+    "event_type": "penalty",
+    "player": "Erling Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:26:00:21",
+    "event_type": "goal",
+    "player": "Erling Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:28:30:07",
+    "event_type": "chance",
+    "player": "Julian Brandt",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:29:01:24",
+    "event_type": "missed chance",
+    "player": "Julian Brandt",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:30:04:12",
+    "event_type": "free kick",
+    "player": "Marco Reus",
+    "team": null
+  },
+  {
+    "timestamp": "00:30:35:24",
+    "event_type": "goal",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "00:30:38:02",
+    "event_type": "corner",
+    "player": "Brandt",
+    "team": null
+  },
+  {
+    "timestamp": "00:31:26:20",
+    "event_type": "yellow card",
+    "player": "Bellinger",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:34:40:07",
+    "event_type": "corner",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "00:35:50:11",
+    "event_type": "penalty",
+    "player": "Harland",
+    "team": null
+  },
+  {
+    "timestamp": "00:36:13:29",
+    "event_type": "foul",
+    "player": "Harland",
+    "team": null
+  },
+  {
+    "timestamp": "00:36:22:25",
+    "event_type": "penalty",
+    "player": "Pantowitsch",
+    "team": null
+  },
+  {
+    "timestamp": "00:37:11:21",
+    "event_type": "penalty",
+    "player": "Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:37:13:06",
+    "event_type": "goal",
+    "player": "Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:39:06:31",
+    "event_type": "yellow card",
+    "player": "Lucia",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "00:39:06:31",
+    "event_type": "yellow card",
+    "player": "Berlin",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:40:02:05",
+    "event_type": "offside",
+    "player": "Bernd",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:41:19:28",
+    "event_type": "handball",
+    "player": "Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:42:15:29",
+    "event_type": "injury",
+    "player": "Marschowitsch",
+    "team": null
+  },
+  {
+    "timestamp": "00:42:29:13",
+    "event_type": "yellow card",
+    "player": "Marszowitsz",
+    "team": null
+  },
+  {
+    "timestamp": "00:42:44:08",
+    "event_type": "injury",
+    "player": "Haaland",
+    "team": null
+  },
+  {
+    "timestamp": "00:45:00:04",
+    "event_type": "goal",
+    "player": "Haaland",
+    "team": null
+  },
+  {
+    "timestamp": "00:46:04:04",
+    "event_type": "offside",
+    "player": "Haaland",
+    "team": null
+  },
+  {
+    "timestamp": "00:50:29:01",
+    "event_type": "goal",
+    "player": "Bolter",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "00:50:30:12",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "00:51:00",
+    "event_type": "penalty",
+    "player": "Pantowitsch",
+    "team": null
+  },
+  {
+    "timestamp": "00:51:03",
+    "event_type": "penalty",
+    "player": "Reksmitschei",
+    "team": null
+  },
+  {
+    "timestamp": "00:51:18",
+    "event_type": "penalty scored",
+    "player": "Harland",
+    "team": null
+  },
+  {
+    "timestamp": "00:51:55",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:51:55",
+    "event_type": "shot",
+    "player": "Marco Reus",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:52:07",
+    "event_type": "corner",
+    "player": null,
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:52:31",
+    "event_type": "corner",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:54:00",
+    "event_type": "shot",
+    "player": "Wolf",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:54:00",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:54:05",
+    "event_type": "shot",
+    "player": "Holkmann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:54:05",
+    "event_type": "shot",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:55:52",
+    "event_type": "pass",
+    "player": "Bellingham",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:55:52",
+    "event_type": "shot",
+    "player": "Haaland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:55:53",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "00:59:24:25",
+    "event_type": "match_start",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "01:00:49:11",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:00:58:19",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:01:25:11",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:01:28:23",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:01:44:05",
+    "event_type": "goal",
+    "player": "Gerrit",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:02:01:22",
+    "event_type": "handball",
+    "player": null,
+    "team": null
+  },
+  {
+    "raw_text": "Here is the extracted list of football match events in JSON format based on the provided commentary text:\n\n```json\n[\n    {\n        \"timestamp\": \"01:02:11:29\",\n        \"event_type\": \"penalty\",\n        \"player\": null,\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"01:02:30:11\",\n        \"event_type\": \"goal\",\n        \"player\": \"Haaland\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"01:02:38:14\",\n        \"event_type\": \"foul\",\n        \"player\": \"Wolf\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"01:02:54:26\",\n        \"event_type\": \"handball\",\n        \"player\": null,\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"01:03:00:12\",\n        \"event_type\": \"video review\",\n        \"player\": null,\n        \"team\": null\n    },\n    {\n        \"timestamp\": null,\n        \"event_type\": \"goal\",\n        \"player\": null,\n        \"team\": \"Dortmund\"\n    },\n    {\n        \"timestamp\": null,\n        \"event_type\": \"goal\",\n        \"player\": null,\n        \"team\": \"Bochum\"\n    },\n    {\n        \"timestamp\": null,\n        \"event_type\": \"match status\",\n        \"player\": null,\n        \"team\": \"Bochum\"\n    }\n]\n```\n\n### Explanation:\n1. **Penalty**: A handball penalty was mentioned at `01:02:11:29`.\n2. **Goal**: Haaland scored the first goal, timestamped at `01:02:30:11`.\n3. **Foul**: A foul involving Wolf was discussed at `01:02:38:14`.\n4. **Handball**: A handball incident was described at `01:02:54:26`.\n5. **Video Review**: The referee used video review for the second time at `01:03:00:12`.\n6. **Goals**: The commentary mentioned a 2-2 scoreline at halftime, implying goals by Dortmund and Bochum, though no specific timestamps or players were mentioned.\n7. **Match Status**: The commentary highlighted that Bochum was close to securing their league status.\n\nThis list captures the key football events mentioned in the commentary."
+  },
+  {
+    "raw_text": "Here is the extracted list of football match events in JSON format based on the provided commentary text:\n\n```json\n[\n    {\n        \"timestamp\": \"01:04:58:06\",\n        \"event_type\": \"goal\",\n        \"player\": \"Bayern\",\n        \"team\": \"Bayern Munich\"\n    },\n    {\n        \"timestamp\": \"01:11:10:25\",\n        \"event_type\": \"goal\",\n        \"player\": \"Norweger\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:11:15:13\",\n        \"event_type\": \"goal\",\n        \"player\": \"Norweger\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:12:10:07\",\n        \"event_type\": \"injury\",\n        \"player\": \"Zaka\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:12:18:19\",\n        \"event_type\": \"injury\",\n        \"player\": \"Zaka\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:12:34:17\",\n        \"event_type\": \"substitution\",\n        \"player\": \"Malen, Kobel, Hummels, Dahut, Rehner, Beny, Morrell, Zildes\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:12:45:08\",\n        \"event_type\": \"penalty\",\n        \"player\": \"Harlan\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:13:22:13\",\n        \"event_type\": \"goal\",\n        \"player\": \"Bolter and Holtmann\",\n        \"team\": \"VfL Bochum\"\n    },\n    {\n        \"timestamp\": \"01:13:46:09\",\n        \"event_type\": \"foul\",\n        \"player\": \"Asano\",\n        \"team\": \"VfL Bochum\"\n    },\n    {\n        \"timestamp\": \"01:14:12:03\",\n        \"event_type\": \"foul\",\n        \"player\": \"Marschowitsch\",\n        \"team\": \"VfL Bochum\"\n    },\n    {\n        \"timestamp\": \"01:14:13:11\",\n        \"event_type\": \"foul\",\n        \"player\": \"Harland\",\n        \"team\": \"Borussia Dortmund\"\n    }\n]\n```\n\n### Explanation:\n- **Timestamp**: Extracted from the commentary where specific events are mentioned.\n- **Event Type**: Derived from the context of the commentary (e.g., goals, fouls, penalties, injuries, substitutions).\n- **Player**: Mentioned player names or identifiers (e.g., \"Norweger\" refers to Erling Haaland, \"Harlan\" is likely a typo for Haaland).\n- **Team**: Associated team names based on the context (e.g., Borussia Dortmund, VfL Bochum, Bayern Munich).\n\nLet me know if you need further refinements!"
+  },
+  {
+    "timestamp": "01:14:42:26",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": null
+  },
+  {
+    "timestamp": "01:15:00:11",
+    "event_type": "comparison",
+    "player": null,
+    "team": "FC Augsburg"
+  },
+  {
+    "timestamp": "01:15:02:13",
+    "event_type": "substitution",
+    "player": [
+      "Andrija Ceyi",
+      "Eduard Löwen"
+    ],
+    "team": null
+  },
+  {
+    "timestamp": "01:15:24:05",
+    "event_type": "nomination",
+    "player": "Sebastian Polter",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:03:22",
+    "event_type": "missed pass",
+    "player": "Guerrero",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:12:25",
+    "event_type": "dribble",
+    "player": "Pantowitsch",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:40:08",
+    "event_type": "steal",
+    "player": "Lucia",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:46:28",
+    "event_type": "attack",
+    "player": "Holtmann",
+    "team": null
+  },
+  {
+    "timestamp": "01:17:39:29",
+    "event_type": "set piece",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:18:07:29",
+    "event_type": "offside prevention",
+    "player": "Riemann",
+    "team": null
+  },
+  {
+    "timestamp": "01:18:30:21",
+    "event_type": "dribble",
+    "player": "Beino Gittens",
+    "team": null
+  },
+  {
+    "timestamp": "01:19:00:14",
+    "event_type": "corner",
+    "player": "Julia Watt",
+    "team": null
+  },
+  {
+    "timestamp": "01:19:48:14",
+    "event_type": "foul",
+    "player": "Berlinger",
+    "team": null
+  },
+  {
+    "timestamp": "01:19:55:07",
+    "event_type": "counterattack",
+    "player": null,
+    "team": "VfL"
+  },
+  {
+    "timestamp": "01:20:54:01",
+    "event_type": "offensive foul",
+    "player": "Polta",
+    "team": null
+  },
+  {
+    "timestamp": "01:21:05:04",
+    "event_type": "good play",
+    "player": "Reus",
+    "team": null
+  },
+  {
+    "timestamp": "01:21:40:28",
+    "event_type": "yellow card",
+    "player": "Boccon",
+    "team": null
+  },
+  {
+    "timestamp": "01:22:09:15",
+    "event_type": "corner",
+    "player": null,
+    "team": "Torfeld"
+  },
+  {
+    "timestamp": "01:22:36:07",
+    "event_type": "defensive block",
+    "player": "Bano Gittens",
+    "team": null
+  },
+  {
+    "timestamp": "01:22:45:09",
+    "event_type": "counter opportunity",
+    "player": "Haaland",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:24:00:17",
+    "event_type": "block",
+    "player": "Maxim Bleich",
+    "team": null
+  },
+  {
+    "timestamp": "01:24:08:17",
+    "event_type": "defensive play",
+    "player": "Herbert Bockhorn",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:24:18:06",
+    "event_type": "corner",
+    "player": "Brandt",
+    "team": null
+  },
+  {
+    "timestamp": "01:26:14:08",
+    "event_type": "shot",
+    "player": "Haaland",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:26:46:14",
+    "event_type": "foul",
+    "player": "Polta",
+    "team": null
+  },
+  {
+    "timestamp": "01:27:21:16",
+    "event_type": "corner",
+    "player": null,
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:28:35:12",
+    "event_type": "attempt",
+    "player": "Harland",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:28:42:26",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:29:34:04",
+    "event_type": "score",
+    "player": null,
+    "team": "Bochum",
+    "details": "Score is 2-2"
+  },
+  {
+    "timestamp": "01:29:42:20",
+    "event_type": "goal",
+    "player": "Reus",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:30:01:19",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Dortmund",
+    "details": "Third goal for Harland"
+  },
+  {
+    "timestamp": "01:31:07:19",
+    "event_type": "substitution",
+    "player": "Beino Gittens",
+    "team": "Dortmund",
+    "details": "Substituted for Felix Baslak"
+  },
+  {
+    "timestamp": "01:31:27:00",
+    "event_type": "substitution",
+    "player": "Pantowicz",
+    "team": "Bochum",
+    "details": "Substituted for Holtmann"
+  },
+  {
+    "timestamp": "01:32:09:19",
+    "event_type": "injury",
+    "player": "Oldmann",
+    "team": "Bochum",
+    "details": "Problem with right knee"
+  },
+  {
+    "timestamp": "01:32:55:05",
+    "event_type": "goal",
+    "player": "Reus",
+    "team": "Dortmund",
+    "details": "Assist to Harland for 3-2"
+  },
+  {
+    "timestamp": "01:33:12:11",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:33:47:08",
+    "event_type": "substitution",
+    "player": "Paslak",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:33:47:08",
+    "event_type": "substitution",
+    "player": "Baino Gittens",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:34:45:17",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:35:53:24",
+    "event_type": "goal",
+    "player": "Christopher-Antwi Andrzej",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:37:12:06",
+    "event_type": "offside",
+    "player": "Anfi Ajey",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:38:54:21",
+    "event_type": "substitution",
+    "player": "Soler",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:39:20:15",
+    "event_type": "substitution",
+    "player": "Asano",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:39:38:08",
+    "event_type": "substitution",
+    "player": "Zoller",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:39:40:19",
+    "event_type": "substitution",
+    "player": "Lokadia",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:39:43:00",
+    "event_type": "goal",
+    "player": "Polta",
+    "team": null
+  },
+  {
+    "timestamp": "01:40:22:02",
+    "event_type": "substitution",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:40:23:25",
+    "event_type": "substitution",
+    "player": null,
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:42:14:20",
+    "event_type": "formation",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:42:49:21",
+    "event_type": "foul",
+    "player": "Paslak",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:43:20:00",
+    "event_type": "handball",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:43:50:00",
+    "event_type": "save",
+    "player": "Hitz",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:43:57:10",
+    "event_type": "header",
+    "player": "Zoller",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:45:03:21",
+    "event_type": "shot",
+    "player": "Wolf",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:45:31:16",
+    "event_type": "attack",
+    "player": "Harlan",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:46:00:00",
+    "event_type": "foul",
+    "player": "Andrija Cey",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:46:07:14",
+    "event_type": "comeback",
+    "player": null,
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:46:23:15",
+    "event_type": "goal",
+    "player": null,
+    "team": "Hamburger Sportverein"
+  },
+  {
+    "timestamp": "01:48:52:29",
+    "event_type": "goal",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:48:54:25",
+    "event_type": "goal",
+    "player": null,
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "01:48:59:10",
+    "event_type": "goal",
+    "player": "Lokadia",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:50:18:23",
+    "event_type": "foul",
+    "player": "Maršović",
+    "team": null
+  },
+  {
+    "timestamp": "01:50:18:23",
+    "event_type": "yellow card",
+    "player": "Maršović",
+    "team": null
+  },
+  {
+    "timestamp": "01:51:09:15",
+    "event_type": "injury",
+    "player": null,
+    "team": "SC Freiburg"
+  },
+  {
+    "timestamp": "01:51:17:11",
+    "event_type": "substitution",
+    "player": "Guerrero",
+    "team": null
+  },
+  {
+    "timestamp": "01:51:17:11",
+    "event_type": "substitution",
+    "player": "Wolf",
+    "team": null
+  },
+  {
+    "timestamp": "01:51:33:25",
+    "event_type": "substitution",
+    "player": "Eduard Löwen",
+    "team": "Hertha BSC"
+  },
+  {
+    "timestamp": "01:52:25:26,01:52:27:26",
+    "event_type": "penalty",
+    "player": null,
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:52:45:12,01:52:46:06",
+    "event_type": "handball",
+    "player": "Witsel",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:53:13:00,01:53:15:25",
+    "event_type": "goal",
+    "player": "Pantovic",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:56:00:00,01:56:01:30",
+    "event_type": "yellow card",
+    "player": "Tom Rothe",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:57:19:29,01:57:21:28",
+    "event_type": "goal",
+    "player": "Tom Rothe",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:58:16:16",
+    "event_type": "goal",
+    "player": "Derren Buckley",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:58:29:26",
+    "event_type": "goal",
+    "player": "Anneka Stropper",
+    "team": "Bayern",
+    "score": "4-2"
+  },
+  {
+    "timestamp": "01:58:50:00",
+    "event_type": "foul",
+    "player": "René",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:59:37:25",
+    "event_type": "yellow card",
+    "player": "Rote",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "02:00:13:10",
+    "event_type": "foul",
+    "player": "Papadopoulos",
+    "team": "Stuttgart"
+  },
+  {
+    "timestamp": "02:00:33:21",
+    "event_type": "yellow card",
+    "player": "Papadopoulos",
+    "team": "Stuttgart"
+  },
+  {
+    "timestamp": "02:01:24:11",
+    "event_type": "save",
+    "player": "Riemann",
+    "team": "VfL Bochum",
+    "against_players": [
+      "Reus",
+      "Wolf",
+      "Harland"
+    ]
+  },
+  {
+    "timestamp": "02:02:33:09",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund",
+    "score": "3 goals"
+  },
+  {
+    "timestamp": "02:02:39:14",
+    "event_type": "goal",
+    "team": "VfL Bochum",
+    "score": "4-3"
+  }
+]

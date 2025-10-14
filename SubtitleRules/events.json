@@ -1,0 +1,58 @@
+[
+  {
+    "timestamp": "01:58:16:16",
+    "event_type": "goal",
+    "player": "Derren Buckley",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:58:29:26",
+    "event_type": "goal",
+    "player": "Anneka Stropper",
+    "team": "Bayern",
+    "score": "4-2"
+  },
+  {
+    "timestamp": "01:58:50:00",
+    "event_type": "foul",
+    "player": "René",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:59:37:25",
+    "event_type": "yellow card",
+    "player": "Rote",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "02:00:13:10",
+    "event_type": "foul",
+    "player": "Papadopoulos",
+    "team": "Stuttgart"
+  },
+  {
+    "timestamp": "02:00:33:21",
+    "event_type": "yellow card",
+    "player": "Papadopoulos",
+    "team": "Stuttgart"
+  },
+  {
+    "timestamp": "02:01:24:11",
+    "event_type": "save",
+    "player": "Riemann",
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "02:02:33:09",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund",
+    "score": "3 goals"
+  },
+  {
+    "timestamp": "02:02:39:14",
+    "event_type": "goal",
+    "team": "VfL Bochum",
+    "score": "4-3"
+  }
+]
