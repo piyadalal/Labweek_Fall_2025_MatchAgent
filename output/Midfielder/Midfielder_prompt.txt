@@ -1,0 +1,12 @@
+A Midfielder is a player in a team sport played on a field. They are positioned in the central area of the field. Their main role is to act as a link, helping to move the ball from their team's own side towards the opponent's goal, and also to disrupt the opponent's efforts to score. They often cover a large portion of the field, moving between defense and attack.
+
+Here are descriptions for images that illustrate this concept:
+
+1.  **Image 1 Description:**
+    A top-down view of a rectangular playing field, divided into two halves by a central line, with goal areas at each end. Blue circular icons represent one team's players, with three near their own goal (defenders) and two near the opponent's goal (attackers). A single blue circular icon, representing the Midfielder, is positioned in the very center of the field with the ball. Dashed arrows show the ball moving from a defender to the Midfielder, and then from the Midfielder to an attacker, highlighting their role in linking play.
+
+2.  **Image 2 Description:**
+    A top-down view of a rectangular playing field, showing two goal areas. Blue circular icons represent one team's players, with defenders near their goal and attackers near the opponent's goal. A single blue circular icon, the Midfielder, is positioned in the central part of the field. A large, transparent shaded oval area encompasses the Midfielder and extends across a significant portion of the field's center, from near their own goal side to the opponent's goal side, visually representing the extensive region the Midfielder covers.
+
+3.  **Image 3 Description:**
+    A top-down view of a rectangular playing field. A red circular icon representing an opposing player is moving with the ball from the center towards the blue team's goal, indicated by a dashed arrow. A blue circular icon, representing the Midfielder, is positioned directly in the path of the opposing player. A 'block' symbol (e.g., two perpendicular lines or an 'X') is placed between the Midfielder and the opponent's path, illustrating the Midfielder's role in disrupting the opponent's attack in the central area.

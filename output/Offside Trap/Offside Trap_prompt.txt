@@ -1,0 +1,12 @@
+An offside trap is a smart defensive strategy where a team's defenders intentionally move forward together at the same time. Their goal is to make an attacking opponent illegally 'offside' – meaning the attacker is too far ahead of the ball and the last defender when a pass is made to them. By stepping up, the defenders leave the attacker behind their line, stopping the play.
+
+Here are the image descriptions to illustrate this concept:
+
+1.  **Image 1: The Setup Before the Trap.**
+    A rectangular green field. A red circle represents the ball. Three blue squares represent defenders in a line. Two red triangles represent attackers, with one positioned legally *level* with the rearmost defender. A black arrow indicates the direction of play.
+
+2.  **Image 2: Defenders Execute the Trap.**
+    The red circle (ball) is stationary. The three blue squares (defenders) have moved forward in unison, indicated by short white arrows showing their movement. The red attacker previously level is now positioned *behind* the new line formed by the defenders.
+
+3.  **Image 3: The Offside Result.**
+    The red circle (ball) and the advanced blue squares (defenders) are in their final positions. The red attacker is clearly positioned *beyond* the rearmost defender relative to the ball. A yellow dashed line extends from the rearmost defender, highlighting this 'offside' position.

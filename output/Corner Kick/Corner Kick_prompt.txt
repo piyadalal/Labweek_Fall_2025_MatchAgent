@@ -1,0 +1,14 @@
+In sports like soccer, when the ball goes out of play over the goal line (the line at the end of the field where the goal is), and the last person to touch it was a player from the *defending* team (the team trying to protect their goal), but a goal wasn't scored – then the *attacking* team gets a 'Corner Kick'. This special kick happens from one of the corners of the field.
+
+---
+
+Here are the image descriptions illustrating the concept:
+
+1.  **Image 1: Ball Crossing the Goal Line from Defender's Touch**
+    A simplified top-down diagram of a soccer field's end. A prominent goal frame sits on the goal line. The ball is depicted just *outside* the goal line, clearly having crossed it. A simple, abstract blue block shape represents a defender near the ball's position before it crossed the line. A dashed arrow shows the ball's trajectory from the defender's vicinity, across the goal line, and to its current position outside the field of play. The goal is empty.
+
+2.  **Image 2: Ball Out of Play and Corner Kick Location**
+    A top-down diagram of the corner area of a soccer field. The goal frame and goal line are visible. The ball is clearly shown outside the playing field, beyond the goal line. One of the corner arcs is distinctly highlighted with a thicker green line. A curved dashed arrow starts from the ball's out-of-play position and points towards this highlighted corner arc, indicating where the subsequent kick will be taken from.
+
+3.  **Image 3: The Corner Kick Being Taken**
+    A close-up, elevated view of a soccer field's corner. A simple pole represents a corner flag. The corner arc is clearly visible on the field. The ball is placed precisely within this corner arc. A very simple, abstract red triangular shape is positioned next to the ball, representing an attacking player about to take the kick. A long, sweeping arrow originates from the ball, showing its trajectory into the main playing area.

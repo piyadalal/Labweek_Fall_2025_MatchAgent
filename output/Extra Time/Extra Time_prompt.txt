@@ -1,0 +1,12 @@
+Extra Time is like when a game ends with both teams having the exact same score, but the rules say there *must* be a winner. So, instead of stopping, they add more playing time, usually in two shorter segments. The teams keep playing until one of them scores more and takes the lead, deciding who wins the match.
+
+Here are descriptions for images illustrating 'Extra Time':
+
+1.  **Image 1: Regular Time Concludes with a Tie**
+    An overhead view of a rectangular playing field with two goals. Above the field, a horizontal timeline bar is shown, fully colored in its main section, indicating the completion of regular playing time. Below this, two abstract team score indicators (e.g., a blue square and a red circle) are perfectly aligned at the same level, showing a drawn match.
+
+2.  **Image 2: Extra Time Begins**
+    The same rectangular playing field with a ball positioned at the center kick-off spot. The horizontal timeline bar from the previous image now shows a new, shorter segment extending from the end of the main section, highlighted to indicate that the additional playing time has begun. The ball is ready to be played within this extended period.
+
+3.  **Image 3: A Decisive Goal in Extra Time**
+    The rectangular playing field focusing on one goal area. A ball is depicted just inside the goal line, having entered the net. Above the field, the timeline bar shows the 'Extra Time' segment still highlighted. One of the abstract team score indicators (e.g., the blue square) is now clearly positioned ahead of the red circle, showing a winning score has been achieved during this extended playing time.

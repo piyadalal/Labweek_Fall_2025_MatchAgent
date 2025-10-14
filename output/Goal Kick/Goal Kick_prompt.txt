@@ -1,0 +1,12 @@
+A 'Goal Kick' is a way to restart a game when the team trying to score a goal accidentally kicks or deflects the ball completely over the goal line (the end line where the net is) without actually putting it into the net. Instead of the other team getting the ball back close to the goal, the defending team gets to kick the ball from a special small box near their own goal, restarting the play and giving them a chance to clear it away.
+
+Here are the image descriptions:
+
+**Image 1: Ball Over Goal Line**
+A top-down view of a soccer field's end. The goal frame and the goal line are clearly visible. A soccer ball is depicted just beyond the goal line, having passed to the side of the goal post. A dashed arrow shows the ball's trajectory originating from the field of play and crossing the goal line outside the goal.
+
+**Image 2: Point of Exit**
+A close-up, top-down view focusing on one side of the goal post and the goal line. A soccer ball has just crossed the goal line, clearly missing the goal. A red 'X' mark is placed on the ball's current position to emphasize it's out of bounds and not a goal.
+
+**Image 3: Goal Kick Restart**
+A top-down view showing the goal, the goal line, and the 'goal area' (the smaller rectangular box inside the penalty area). A soccer ball is positioned on the line of the goal area, in the corner closest to the goal line. A large green arrow points from the ball, away from the goal, indicating the direction of the restart kick.

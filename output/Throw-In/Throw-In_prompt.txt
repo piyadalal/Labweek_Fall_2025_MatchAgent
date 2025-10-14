@@ -1,0 +1,12 @@
+A throw-in is how a game restarts when the ball goes completely out of bounds over the side line. The team that didn't touch the ball last before it went out then gets to throw it back into the playing area from where it left.
+
+Here are descriptions for images to illustrate the concept:
+
+1.  **Image 1: Ball Crossing the Sideline**
+    A green rectangular playing field is shown with a clear white sideline. A red ball is depicted completely outside the field, having just crossed the sideline. A simple blue circular marker (representing a player) is inside the field, near where the ball exited, while a red square marker (another player) is further away. A dashed arrow indicates the ball's path moving from inside to outside the field.
+
+2.  **Image 2: Ball at Rest with New Possession**
+    The same green playing field and white sideline are shown. The red ball is now held by a simple red square marker (representing a player from the team that did not last touch the ball) standing just outside the sideline. A blue circular marker (representing a player from the opposing team) is inside the field, positioned near the red square marker, indicating the change of possession.
+
+3.  **Image 3: The Throw-In Action**
+    The green playing field and white sideline are visible. The red square marker is outside the sideline, holding the red ball, poised to throw. A long, dashed arrow shows the ball's intended trajectory, starting from the marker's position over the sideline and landing inside the playing field. Other simple markers (blue circle, red square) are positioned inside the field, waiting for the ball.

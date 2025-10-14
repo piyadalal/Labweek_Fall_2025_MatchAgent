@@ -1,0 +1,12 @@
+In soccer, a 'Penalty' refers to a special, powerful free shot at the opponent's goal. This opportunity is given when a player breaks a rule (like tripping or pushing) inside a specific rectangular area right in front of their own goal, known as the 'penalty area.' The team that was fouled gets to take a direct shot from a fixed spot, with only the opposing goalkeeper allowed to defend it, giving them a very good chance to score.
+
+Here are descriptions for 3 images illustrating this concept:
+
+1.  **Image 1: The Foul Location**
+    A top-down diagram of a simplified soccer field showing a goal and the rectangular penalty area in front of it. Inside this area, two simple colored circular shapes representing opposing players are near a soccer ball, with a small 'X' mark within the penalty area indicating where a rule might have been broken.
+
+2.  **Image 2: The Setup for the Penalty Kick**
+    A clear diagram focusing on the soccer goal and its penalty area. A soccer ball rests precisely on the designated penalty spot (a small dot). A square shape representing a goalkeeper is positioned directly in front of the goal, while another simple shape representing the kicker is behind the ball, ready to shoot.
+
+3.  **Image 3: The Direct Shot**
+    A simple scene showing a soccer ball in mid-air, traveling along a dashed line directly from the penalty spot towards the goal. A square representing the goalkeeper is positioned in front of the goal, slightly shifted as if attempting to block the incoming ball.

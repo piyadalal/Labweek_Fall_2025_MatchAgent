@@ -1,0 +1,9 @@
+A 'foul' in sports means doing something that's not allowed by the game's rules, usually to unfairly stop or get an advantage over an opponent. It's like breaking a small rule, for example, by pushing someone, grabbing their clothing, or tripping them, instead of just trying to play the ball fairly.
+
+Here are descriptions for images that illustrate this concept:
+
+1.  **Image 1 Description:** A green playing field with white boundary lines. A blue circle (player) is moving towards a yellow ball (indicated by a dashed arrow). A red square (opponent) is positioned directly in the blue circle's path. A thick, red zigzag line connects the red square to the blue circle, illustrating an illegal obstruction or contact, preventing fair movement to the ball.
+
+2.  **Image 2 Description:** A green playing field with white boundary lines. A purple triangle (player) is attempting to move towards a yellow ball (indicated by a dashed arrow). An orange pentagon (opponent) has extended a curved, red 'holding' line with a hook-like end that connects to and restricts the movement of the purple triangle, illustrating an unfair hold.
+
+3.  **Image 3 Description:** A green playing field with white boundary lines. A green star (player) is moving towards a yellow ball (indicated by a dashed arrow). A cyan diamond (opponent) uses a short, forceful red arrow originating from it to push the green star sideways, diverting its path away from the ball and showing an illegal physical interference.

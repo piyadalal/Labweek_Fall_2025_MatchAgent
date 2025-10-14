@@ -1,0 +1,12 @@
+The 'Goal Line' is the straight line drawn on the ground directly between the two goalposts. For a goal to count in many sports, the entire ball must completely cross over this line, past its outer edge, and into the net area. If even a tiny part of the ball is still touching or hovering directly above any part of the line, it is not considered a goal yet.
+
+Here are descriptions for images that illustrate this concept:
+
+1.  **Image 1: Defining the Goal Line**
+    A simple diagram showing two upright goalposts (vertical rectangles) connected by a horizontal crossbar. A thin, straight white line is drawn on the ground directly between the bases of the goalposts. A bold arrow points directly at this white line on the ground, emphasizing its position.
+
+2.  **Image 2: Ball Not Fully Crossed**
+    An overhead perspective showing a section of the white goal line drawn on a green field. Two minimalist goalposts (small, grey squares representing their base) flank the ends of this line. A spherical soccer ball is positioned with a small, visible portion of its curve still directly overlapping the white goal line, illustrating that it has not completely crossed over.
+
+3.  **Image 3: Ball Fully Crossed (A Goal!)**
+    An overhead perspective showing a section of the white goal line drawn on a green field. Two minimalist goalposts (small, grey squares representing their base) flank the ends of this line. A spherical soccer ball is positioned entirely beyond the white goal line and clearly within the darker green area (the goal area) behind it, with no part of the ball touching or overlapping the line.

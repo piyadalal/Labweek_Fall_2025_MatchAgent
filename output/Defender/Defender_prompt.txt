@@ -1,0 +1,12 @@
+A 'Defender' is a player on a team whose main job is to prevent the opposing team from scoring. They primarily focus on stopping the other team's attack by blocking their path, intercepting the ball, or pushing the play away from their team's goal or scoring area.
+
+Here are descriptions for images that illustrate this concept:
+
+**Image 1: Initial Setup - Defining Roles**
+The image shows a rectangular playing area with a marked goal zone at one end. A red triangle (attacker) is shown with a yellow circle (ball), moving towards the goal zone. A blue square (defender) is positioned between the attacker and the goal zone, illustrating its protective role.
+
+**Image 2: Active Defense - Blocking a Path**
+On the playing area, an attacker (red triangle) with the ball (yellow circle) is moving directly towards the goal zone. A defender (blue square) is positioned directly in front of the attacker, between the attacker and the goal, showing an attempt to block the attack's direct path.
+
+**Image 3: Redirecting Play - Pushing Away**
+This image depicts an attacker (red triangle) with the ball (yellow circle) approaching the goal zone. A defender (blue square) is positioned strategically to guide the attacker's movement or the ball's potential trajectory away from the direct line to the goal, indicated by directional arrows.
