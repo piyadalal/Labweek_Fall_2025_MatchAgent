@@ -5,187 +5,218 @@
   {
     "timestamp": "00:08:06:05",
     "event_type": "kickoff",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 1. **Kickoff**  \n- **What it means**: The match begins with one team starting play from the center circle.  \n- **Rule**: The ball must move forward from the center spot, and no player can enter the opponent’s half until the ball is kicked.  \n- **Impact**: The game starts, and both teams aim to score or defend."
   },
   {
     "timestamp": "00:09:00:11",
     "event_type": "chance",
     "player": "Pantovic",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 2. **Chance** (e.g., Pantovic creates a chance)  \n- **What it means**: A player gets into a position to score, but it doesn’t result in a goal.  \n- **Impact**: A missed opportunity keeps the game scoreless or unchanged. The opposing team may counterattack."
   },
   {
     "timestamp": "00:09:37:20",
     "event_type": "offside",
     "player": "Erling Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "00:10:21:03",
     "event_type": "goal",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:11:40",
     "event_type": "goal",
     "player": "Polter",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:11:50",
     "event_type": "assist",
     "player": "Asano",
-    "team": null
+    "team": null,
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "00:11:57",
     "event_type": "penalty",
     "player": "Molter",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:13:07",
     "event_type": "goal",
     "player": "Ponyta",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:15:29",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "VFL Bochum"
+    "team": "VFL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:16:01",
     "event_type": "assist",
     "player": "Asano",
-    "team": "VFL Bochum"
+    "team": "VFL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "00:16:09",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "VFL Bochum"
+    "team": "VFL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:16:32",
     "event_type": "assist",
     "player": "Takuma Asano",
-    "team": "VFL Bochum"
+    "team": "VFL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "00:17:49:10",
     "event_type": "substitution",
     "player": "Jamie Bynow-Giddens",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "00:17:51:13",
     "event_type": "substitution",
     "player": "Jamie Bynow-Giddens",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "00:20:27:00",
     "event_type": "goal",
     "player": "Sebastian Bolter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:22:47:00",
     "event_type": "goal",
     "player": "Sebastian Bolter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:22:49:13",
     "event_type": "goal",
     "player": "Julian Brandt",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:18:18:19",
     "event_type": "foul",
     "player": "Holtmann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "00:23:27:14",
     "event_type": "goal",
     "player": "Wolfsburg player",
-    "team": "Wolfsburg"
+    "team": "Wolfsburg",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:24:26:22",
     "event_type": "penalty",
     "player": "Erling Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:26:00:21",
     "event_type": "goal",
     "player": "Erling Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:28:30:07",
     "event_type": "chance",
     "player": "Julian Brandt",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 2. **Chance** (e.g., Pantovic creates a chance)  \n- **What it means**: A player gets into a position to score, but it doesn’t result in a goal.  \n- **Impact**: A missed opportunity keeps the game scoreless or unchanged. The opposing team may counterattack."
   },
   {
     "timestamp": "00:28:31:19",
     "event_type": "save",
     "player": "Riemann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "00:29:01:24",
     "event_type": "missed_chance",
     "player": "Julian Brandt",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 2. **Chance** (e.g., Pantovic creates a chance)  \n- **What it means**: A player gets into a position to score, but it doesn’t result in a goal.  \n- **Impact**: A missed opportunity keeps the game scoreless or unchanged. The opposing team may counterattack."
   },
   {
     "timestamp": "00:30:04:12",
     "event_type": "free kick",
     "player": "Marco Reus",
-    "team": null
+    "team": null,
+    "explanation": "### 9. **Free Kick** (e.g., Marco Reus takes a free kick)  \n- **What it means**: A team is awarded an unopposed kick after a foul or infringement.  \n- **Rule**: The ball can be kicked directly at goal or passed to a teammate.  \n- **Impact**: A scoring opportunity or a chance to build an attack."
   },
   {
     "timestamp": "00:30:35:24",
     "event_type": "goal",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:30:38:02",
     "event_type": "corner",
     "player": "Brandt",
-    "team": null
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "00:31:25:17",
     "event_type": "yellow card",
     "player": "Bellinger",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "00:34:05:24",
     "event_type": "offside",
     "player": "Reus",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "00:34:40:07",
     "event_type": "corner",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "00:35:50:11",
     "event_type": "penalty",
     "player": "Harland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "raw_text": "Here is the extracted list of football match events in JSON format:\n\n```json\n[\n    {\n        \"timestamp\": \"00:36:13:28\",\n        \"event_type\": \"handball\",\n        \"player\": \"Harland\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:36:22:24\",\n        \"event_type\": \"penalty\",\n        \"player\": null,\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:36:30:24\",\n        \"event_type\": \"penalty caused\",\n        \"player\": \"Pantowitsch\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:37:11:05\",\n        \"event_type\": \"penalty scored\",\n        \"player\": \"Haaland\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"00:37:19:29\",\n        \"event_type\": \"goal\",\n        \"player\": \"Haaland\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"00:38:01:18\",\n        \"event_type\": \"handball\",\n        \"player\": \"Brexwitschheim\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:38:03:29\",\n        \"event_type\": \"referee decision\",\n        \"player\": \"Tobias Welz\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:39:06:30\",\n        \"event_type\": \"yellow card\",\n        \"player\": \"Lucia\",\n        \"team\": \"Bochum\"\n    },\n    {\n        \"timestamp\": \"00:39:08:27\",\n        \"event_type\": \"yellow card\",\n        \"player\": \"Berlin\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:40:03:05\",\n        \"event_type\": \"offside\",\n        \"player\": \"Bernd\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:41:19:27\",\n        \"event_type\": \"handball claimed\",\n        \"player\": \"Rex Pichai\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"00:42:17:24\",\n        \"event_type\": \"injury\",\n        \"player\": \"Marschowitsch\",\n        \"team\": null\n    }\n]\n```\n\nThis list captures the key events mentioned in the commentary, along with the associated timestamps, event types, players, and teams (if available)."
@@ -194,103 +225,120 @@
     "timestamp": "00:42:29:13",
     "event_type": "yellow card",
     "player": "Marszowitsz",
-    "team": null
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "00:42:44:08",
     "event_type": "injury",
     "player": "Haaland",
-    "team": null
+    "team": null,
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
   },
   {
     "timestamp": "00:45:00:04",
     "event_type": "goal",
     "player": "Haaland",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:46:04:04",
     "event_type": "offside",
     "player": "Haaland",
-    "team": null
+    "team": null,
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "00:50:29:01",
     "event_type": "goal",
     "player": "Bolter",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:50:30:12",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:51:00",
     "event_type": "penalty",
     "player": "Pantowitsch",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:51:03",
     "event_type": "penalty",
     "player": "Reksmitschei",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:51:18",
     "event_type": "penalty scored",
     "player": "Harland",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:51:55",
     "event_type": "save",
     "player": "Manuel Riemann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "00:51:55",
     "event_type": "shot",
     "player": "Marco Reus",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:52:07",
     "event_type": "corner",
     "player": null,
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "00:52:31",
     "event_type": "corner",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "00:54:00",
     "event_type": "shot",
     "player": "Wolf",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:54:00",
     "event_type": "save",
     "player": "Manuel Riemann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "00:54:05",
     "event_type": "shot",
     "player": "Holkmann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:54:05",
     "event_type": "shot",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:55:02",
@@ -302,13 +350,15 @@
     "timestamp": "00:55:02",
     "event_type": "shot",
     "player": "Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:55:02",
     "event_type": "save",
     "player": "Manuel Riemann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "00:59:24:25",
@@ -320,73 +370,85 @@
     "timestamp": "01:00:49:11",
     "event_type": "goal",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:00:58:19",
     "event_type": "assist",
     "player": "Asano",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "01:01:25:11",
     "event_type": "goal",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:01:28:23",
     "event_type": "assist",
     "player": "Asano",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "01:01:44:05",
     "event_type": "goal",
     "player": "Gerrit",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:02:01:22",
     "event_type": "handball",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
   },
   {
     "timestamp": "01:02:11:29",
     "event_type": "penalty",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "01:02:30:11",
     "event_type": "goal",
     "player": "Haaland",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:02:38:14",
     "event_type": "foul",
     "player": "Wolf",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:02:54:26",
     "event_type": "handball",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
   },
   {
     "timestamp": "01:03:04:06",
     "event_type": "penalty",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": null,
     "event_type": "goal",
     "player": null,
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": null,
@@ -406,73 +468,85 @@
     "timestamp": "01:04:58:06",
     "event_type": "goal",
     "player": "Bayern",
-    "team": "Bayern Munich"
+    "team": "Bayern Munich",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:11:13:06",
     "event_type": "goal",
     "player": "Norweger",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:11:15:12",
     "event_type": "goal",
     "player": "Norweger",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:12:10:06",
     "event_type": "injury",
     "player": "Zagadou",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
   },
   {
     "timestamp": "01:12:47:08",
     "event_type": "penalty",
     "player": "Harlan",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "01:13:17:05",
     "event_type": "goal",
     "player": "Bolter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:13:17:05",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:13:46:09",
     "event_type": "foul",
     "player": "Asano",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:14:12:04",
     "event_type": "foul",
     "player": "Marschowitsch",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:14:13:10",
     "event_type": "foul",
     "player": "Harland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:14:42:26",
     "event_type": "assist",
     "player": "Asano",
-    "team": null
+    "team": null,
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "01:15:05:05",
     "event_type": "substitution",
     "player": "Boromar",
-    "team": null
+    "team": null,
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:15:24:05",
@@ -484,7 +558,8 @@
     "timestamp": "01:16:03:22",
     "event_type": "foul",
     "player": "Guerrero",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:16:12:24",
@@ -508,7 +583,8 @@
     "timestamp": "01:18:02:17",
     "event_type": "offside",
     "player": "Gamboa",
-    "team": null
+    "team": null,
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "01:18:30:21",
@@ -520,19 +596,22 @@
     "timestamp": "01:19:00:14",
     "event_type": "corner",
     "player": "Julia Watt",
-    "team": null
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "01:19:48:14",
     "event_type": "foul",
     "player": "Berlinger",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:19:55:06",
     "event_type": "counterattack",
     "player": null,
-    "team": "VfL"
+    "team": "VfL",
+    "explanation": "### 19. **Counterattack** (e.g., VfL Bochum launches a counterattack)  \n- **What it means**: A quick attack after winning possession, often catching the opposing team off guard.  \n- **Impact**: Can lead to a scoring opportunity."
   },
   {
     "timestamp": "01:20:54:01",
@@ -556,13 +635,15 @@
     "timestamp": "01:21:42:20",
     "event_type": "yellow card",
     "player": "Boccon",
-    "team": "Bochumer"
+    "team": "Bochumer",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "01:22:09:15",
     "event_type": "corner",
     "player": null,
-    "team": "Torfeld"
+    "team": "Torfeld",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "01:22:36:07",
@@ -574,7 +655,8 @@
     "timestamp": "01:22:45:09",
     "event_type": "defensive play",
     "player": "Bockhorn",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 18. **Defensive Play** (e.g., Bockhorn defends)  \n- **What it means**: Actions like tackling, blocking, or intercepting to stop the opposing team.  \n- **Impact**: Prevents goals and regains possession."
   },
   {
     "timestamp": "01:24:00:17",
@@ -586,37 +668,43 @@
     "timestamp": "01:24:14:22",
     "event_type": "defensive play",
     "player": "Herbert Bockhorn",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 18. **Defensive Play** (e.g., Bockhorn defends)  \n- **What it means**: Actions like tackling, blocking, or intercepting to stop the opposing team.  \n- **Impact**: Prevents goals and regains possession."
   },
   {
     "timestamp": "01:24:18:06",
     "event_type": "corner",
     "player": "Brandt",
-    "team": null
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "01:26:15:08",
     "event_type": "shot",
     "player": "Harland",
-    "team": null
+    "team": null,
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "01:26:29:01",
     "event_type": "save",
     "player": "Manuel",
-    "team": null
+    "team": null,
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "01:27:00:16",
     "event_type": "foul",
     "player": "Zagadou",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:27:22:30",
     "event_type": "corner",
     "player": null,
-    "team": "VfL"
+    "team": "VfL",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "01:28:35:12",
@@ -628,127 +716,148 @@
     "timestamp": "01:28:42:26",
     "event_type": "save",
     "player": "Manuel Riemann",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "01:29:34:04",
     "event_type": "goal",
     "player": "Reus",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:30:01:19",
     "event_type": "goal",
     "player": "Harland",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:31:07:19",
     "event_type": "substitution",
     "player": "Beino Gittens",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:31:07:19",
     "event_type": "substitution",
     "player": "Felix Baslak",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:31:27:00",
     "event_type": "substitution",
     "player": "Pantowicz",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:31:27:00",
     "event_type": "substitution",
     "player": "Holtmann",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:32:09:19",
     "event_type": "injury",
     "player": "Oldmann",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
   },
   {
     "timestamp": "01:32:51:17",
     "event_type": "goal",
     "player": "Reus",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:33:12:11",
     "event_type": "goal",
     "player": "Harland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:33:47:08",
     "event_type": "substitution",
     "player": "Paslak",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:33:47:08",
     "event_type": "substitution",
     "player": "Baino Gittens",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:34:45:17",
     "event_type": "goal",
     "player": "Harland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:35:53:24",
     "event_type": "goal",
     "player": "Christopher-Antwi Andrzej",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:37:12:06",
     "event_type": "offside",
     "player": "Anfi Ajey",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "01:38:54:21",
     "event_type": "substitution",
     "player": "Asano",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:38:54:21",
     "event_type": "substitution",
     "player": "Zoller",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:38:54:21",
     "event_type": "substitution",
     "player": "Lokadia",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:39:43:00",
     "event_type": "goal",
     "player": "Polta",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:40:19:21",
     "event_type": "substitution",
     "player": null,
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:40:19:21",
     "event_type": "substitution",
     "player": null,
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:42:14:20",
@@ -760,121 +869,141 @@
     "timestamp": "01:42:46:19",
     "event_type": "foul",
     "player": "Paslak",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:43:15:19",
     "event_type": "handball_claim",
     "player": null,
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
   },
   {
     "timestamp": "01:43:50:00",
     "event_type": "save",
     "player": "Marwin Hitz",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "01:43:55:10",
     "event_type": "header",
     "player": "Simon Zoller",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 17. **Header** (e.g., Zoller attempts a header)  \n- **What it means**: A player uses their head to direct the ball, often toward the goal or a teammate.  \n- **Impact**: A common way to score or pass in aerial situations."
   },
   {
     "timestamp": "01:45:31:16",
     "event_type": "attack",
     "player": "Harlan, Brandt, Reus",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 19. **Counterattack** (e.g., VfL Bochum launches a counterattack)  \n- **What it means**: A quick attack after winning possession, often catching the opposing team off guard.  \n- **Impact**: Can lead to a scoring opportunity."
   },
   {
     "timestamp": "01:46:00:00",
     "event_type": "foul",
     "player": "Andrija Cey",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:46:23:15",
     "event_type": "goal",
     "player": null,
-    "team": "Hamburger Sportverein"
+    "team": "Hamburger Sportverein",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:48:33:10",
     "event_type": "goal",
     "player": "Luka Nia",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:48:52:29",
     "event_type": "goal",
     "player": null,
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:48:59:11",
     "event_type": "goal",
     "player": "Lokadia",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:50:16:26",
     "event_type": "foul",
     "player": "Maršović",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:50:16:26",
     "event_type": "yellow card",
     "player": "Maršović",
-    "team": null
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "01:51:17:11",
     "event_type": "substitution",
     "player": "Guerrero",
-    "team": null
+    "team": null,
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:51:17:11",
     "event_type": "substitution",
     "player": "Wolf",
-    "team": null
+    "team": null,
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:51:33:25",
     "event_type": "substitution",
     "player": "Eduard Löwen",
-    "team": "Hertha BSC"
+    "team": "Hertha BSC",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:52:25:26,01:52:27:26",
     "event_type": "penalty",
     "player": null,
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "01:52:45:12,01:52:46:06",
     "event_type": "handball",
     "player": "Witsel",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
   },
   {
     "timestamp": "01:53:13:00,01:53:15:25",
     "event_type": "goal",
     "player": "Pantovic",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:56:00:05,01:56:01:30",
     "event_type": "yellow card",
     "player": "Tom Rothe",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "01:57:19:29,01:57:21:28",
     "event_type": "goal",
     "player": "Tom Rothe",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "raw_text": "Here is the extracted list of football match events in JSON format:\n\n```json\n[\n    {\n        \"timestamp\": \"01:58:16:16\",\n        \"event_type\": \"goal\",\n        \"player\": \"Derren Buckley\",\n        \"team\": \"Borussia Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:58:29:26\",\n        \"event_type\": \"goal\",\n        \"player\": \"Anneka Stropper\",\n        \"team\": \"Bayern\",\n        \"score\": \"4-2\"\n    },\n    {\n        \"timestamp\": \"01:58:52:04\",\n        \"event_type\": \"foul\",\n        \"player\": \"René\",\n        \"team\": \"Dortmund\"\n    },\n    {\n        \"timestamp\": \"01:59:37:25\",\n        \"event_type\": \"yellow card\",\n        \"player\": \"Rote\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"02:00:13:10\",\n        \"event_type\": \"foul\",\n        \"player\": \"Papadopoulos\",\n        \"team\": \"Stuttgart\"\n    },\n    {\n        \"timestamp\": \"02:00:33:21\",\n        \"event_type\": \"yellow card\",\n        \"player\": \"Papadopoulos\",\n        \"team\": \"Stuttgart\"\n    },\n    {\n        \"timestamp\": \"02:01:24:11\",\n        \"event_type\": \"save\",\n        \"player\": \"Riemann\",\n        \"team\": \"VfL Bochum\"\n    },\n    {\n        \"timestamp\": \"02:02:31:11\",\n        \"event_type\": \"goal\",\n        \"player\": \"Harland\",\n        \"team\": \"Borussia Dortmund\",\n        \"score\": \"4-3\"\n    },\n    {\n        \"timestamp\": \"02:04:10:11\",\n        \"event_type\": \"goal\",\n        \"player\": null,\n        \"team\": \"Dortmund\",\n        \"score\": \"3-2\"\n    },\n    {\n        \"timestamp\": \"02:04:12:17\",\n        \"event_type\": \"goal\",\n        \"player\": null,\n        \"team\": \"Bochum\",\n        \"score\": \"4-3\"\n    }\n]\n```\n\nThis list includes the key events mentioned in the commentary, such as goals, fouls, yellow cards, and saves, along with the associated timestamps, players, and teams where available."
@@ -885,343 +1014,400 @@
   {
     "timestamp": "00:08:06:05",
     "event_type": "kickoff",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 1. **Kickoff**  \n- **What it means**: The match begins with one team starting play from the center circle.  \n- **Rule**: The ball must move forward from the center spot, and no player can enter the opponent’s half until the ball is kicked.  \n- **Impact**: The game starts, and both teams aim to score or defend."
   },
   {
     "timestamp": "00:09:00:11",
     "event_type": "chance",
     "player": "Pantovic",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 2. **Chance** (e.g., Pantovic creates a chance)  \n- **What it means**: A player gets into a position to score, but it doesn’t result in a goal.  \n- **Impact**: A missed opportunity keeps the game scoreless or unchanged. The opposing team may counterattack."
   },
   {
     "timestamp": "00:09:37:20",
     "event_type": "offside",
     "player": "Erling Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "00:10:21:03",
     "event_type": "goal",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:11:19:29",
     "event_type": "foul",
     "player": "Asano",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "00:11:38:00",
     "event_type": "goal",
     "player": "Polter",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:11:50:00",
     "event_type": "assist",
     "player": "Asano",
-    "team": null
+    "team": null,
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "00:11:57:14",
     "event_type": "penalty",
     "player": "Molter",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:13:07:08",
     "event_type": "goal",
     "player": "Ponyta",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:15:29:27",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "VFL Bochum"
+    "team": "VFL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:16:01:13",
     "event_type": "offside",
     "player": "Asano",
-    "team": null
+    "team": null,
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "00:16:19:09",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "VFL Bochum"
+    "team": "VFL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:16:32:17",
     "event_type": "assist",
     "player": "Takuma Asano",
-    "team": "VFL Bochum"
+    "team": "VFL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "00:17:49:10",
     "event_type": "substitution",
     "player": "Jamie Bynow-Giddens",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "00:17:51:13",
     "event_type": "substitution",
     "player": "Jamie Bynow-Giddens",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "00:18:42:06",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:18:44:13",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:19:00:20",
     "event_type": "goal",
     "player": "Sebastian Bolter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:20:27:00",
     "event_type": "goal",
     "player": "Sebastian Bolter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:22:47:00",
     "event_type": "goal",
     "player": "Brandt",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:22:49:13",
     "event_type": "goal",
     "player": "Brandt",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:24:26:22",
     "event_type": "penalty",
     "player": "Erling Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:26:00:21",
     "event_type": "goal",
     "player": "Erling Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:28:30:07",
     "event_type": "chance",
     "player": "Julian Brandt",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 2. **Chance** (e.g., Pantovic creates a chance)  \n- **What it means**: A player gets into a position to score, but it doesn’t result in a goal.  \n- **Impact**: A missed opportunity keeps the game scoreless or unchanged. The opposing team may counterattack."
   },
   {
     "timestamp": "00:29:01:24",
     "event_type": "missed chance",
     "player": "Julian Brandt",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 2. **Chance** (e.g., Pantovic creates a chance)  \n- **What it means**: A player gets into a position to score, but it doesn’t result in a goal.  \n- **Impact**: A missed opportunity keeps the game scoreless or unchanged. The opposing team may counterattack."
   },
   {
     "timestamp": "00:30:04:12",
     "event_type": "free kick",
     "player": "Marco Reus",
-    "team": null
+    "team": null,
+    "explanation": "### 9. **Free Kick** (e.g., Marco Reus takes a free kick)  \n- **What it means**: A team is awarded an unopposed kick after a foul or infringement.  \n- **Rule**: The ball can be kicked directly at goal or passed to a teammate.  \n- **Impact**: A scoring opportunity or a chance to build an attack."
   },
   {
     "timestamp": "00:30:35:24",
     "event_type": "goal",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:30:38:02",
     "event_type": "corner",
     "player": "Brandt",
-    "team": null
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "00:31:26:20",
     "event_type": "yellow card",
     "player": "Bellinger",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "00:34:40:07",
     "event_type": "corner",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "00:35:50:11",
     "event_type": "penalty",
     "player": "Harland",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:36:13:29",
     "event_type": "foul",
     "player": "Harland",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "00:36:22:25",
     "event_type": "penalty",
     "player": "Pantowitsch",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:37:11:21",
     "event_type": "penalty",
     "player": "Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:37:13:06",
     "event_type": "goal",
     "player": "Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:39:06:31",
     "event_type": "yellow card",
     "player": "Lucia",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "00:39:06:31",
     "event_type": "yellow card",
     "player": "Berlin",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "00:40:02:05",
     "event_type": "offside",
     "player": "Bernd",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "00:41:19:28",
     "event_type": "handball",
     "player": "Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
   },
   {
     "timestamp": "00:42:15:29",
     "event_type": "injury",
     "player": "Marschowitsch",
-    "team": null
+    "team": null,
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
   },
   {
     "timestamp": "00:42:29:13",
     "event_type": "yellow card",
     "player": "Marszowitsz",
-    "team": null
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "00:42:44:08",
     "event_type": "injury",
     "player": "Haaland",
-    "team": null
+    "team": null,
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
   },
   {
     "timestamp": "00:45:00:04",
     "event_type": "goal",
     "player": "Haaland",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:46:04:04",
     "event_type": "offside",
     "player": "Haaland",
-    "team": null
+    "team": null,
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "00:50:29:01",
     "event_type": "goal",
     "player": "Bolter",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:50:30:12",
     "event_type": "goal",
     "player": "Holtmann",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "00:51:00",
     "event_type": "penalty",
     "player": "Pantowitsch",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:51:03",
     "event_type": "penalty",
     "player": "Reksmitschei",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:51:18",
     "event_type": "penalty scored",
     "player": "Harland",
-    "team": null
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "00:51:55",
     "event_type": "save",
     "player": "Manuel Riemann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "00:51:55",
     "event_type": "shot",
     "player": "Marco Reus",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:52:07",
     "event_type": "corner",
     "player": null,
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "00:52:31",
     "event_type": "corner",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "00:54:00",
     "event_type": "shot",
     "player": "Wolf",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:54:00",
     "event_type": "save",
     "player": "Manuel Riemann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "00:54:05",
     "event_type": "shot",
     "player": "Holkmann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:54:05",
     "event_type": "shot",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:55:52",
@@ -1233,13 +1419,15 @@
     "timestamp": "00:55:52",
     "event_type": "shot",
     "player": "Haaland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "00:55:53",
     "event_type": "save",
     "player": "Manuel Riemann",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "00:59:24:25",
@@ -1251,37 +1439,43 @@
     "timestamp": "01:00:49:11",
     "event_type": "goal",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:00:58:19",
     "event_type": "assist",
     "player": "Asano",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "01:01:25:11",
     "event_type": "goal",
     "player": "Polter",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:01:28:23",
     "event_type": "assist",
     "player": "Asano",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "01:01:44:05",
     "event_type": "goal",
     "player": "Gerrit",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:02:01:22",
     "event_type": "handball",
     "player": null,
-    "team": null
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
   },
   {
     "raw_text": "Here is the extracted list of football match events in JSON format based on the provided commentary text:\n\n```json\n[\n    {\n        \"timestamp\": \"01:02:11:29\",\n        \"event_type\": \"penalty\",\n        \"player\": null,\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"01:02:30:11\",\n        \"event_type\": \"goal\",\n        \"player\": \"Haaland\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"01:02:38:14\",\n        \"event_type\": \"foul\",\n        \"player\": \"Wolf\",\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"01:02:54:26\",\n        \"event_type\": \"handball\",\n        \"player\": null,\n        \"team\": null\n    },\n    {\n        \"timestamp\": \"01:03:00:12\",\n        \"event_type\": \"video review\",\n        \"player\": null,\n        \"team\": null\n    },\n    {\n        \"timestamp\": null,\n        \"event_type\": \"goal\",\n        \"player\": null,\n        \"team\": \"Dortmund\"\n    },\n    {\n        \"timestamp\": null,\n        \"event_type\": \"goal\",\n        \"player\": null,\n        \"team\": \"Bochum\"\n    },\n    {\n        \"timestamp\": null,\n        \"event_type\": \"match status\",\n        \"player\": null,\n        \"team\": \"Bochum\"\n    }\n]\n```\n\n### Explanation:\n1. **Penalty**: A handball penalty was mentioned at `01:02:11:29`.\n2. **Goal**: Haaland scored the first goal, timestamped at `01:02:30:11`.\n3. **Foul**: A foul involving Wolf was discussed at `01:02:38:14`.\n4. **Handball**: A handball incident was described at `01:02:54:26`.\n5. **Video Review**: The referee used video review for the second time at `01:03:00:12`.\n6. **Goals**: The commentary mentioned a 2-2 scoreline at halftime, implying goals by Dortmund and Bochum, though no specific timestamps or players were mentioned.\n7. **Match Status**: The commentary highlighted that Bochum was close to securing their league status.\n\nThis list captures the key football events mentioned in the commentary."
@@ -1293,7 +1487,8 @@
     "timestamp": "01:14:42:26",
     "event_type": "assist",
     "player": "Asano",
-    "team": null
+    "team": null,
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
   },
   {
     "timestamp": "01:15:00:11",
@@ -1308,7 +1503,8 @@
       "Andrija Ceyi",
       "Eduard Löwen"
     ],
-    "team": null
+    "team": null,
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:15:24:05",
@@ -1338,7 +1534,8 @@
     "timestamp": "01:16:46:28",
     "event_type": "attack",
     "player": "Holtmann",
-    "team": null
+    "team": null,
+    "explanation": "### 19. **Counterattack** (e.g., VfL Bochum launches a counterattack)  \n- **What it means**: A quick attack after winning possession, often catching the opposing team off guard.  \n- **Impact**: Can lead to a scoring opportunity."
   },
   {
     "timestamp": "01:17:39:29",
@@ -1350,7 +1547,8 @@
     "timestamp": "01:18:07:29",
     "event_type": "offside prevention",
     "player": "Riemann",
-    "team": null
+    "team": null,
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "01:18:30:21",
@@ -1362,25 +1560,29 @@
     "timestamp": "01:19:00:14",
     "event_type": "corner",
     "player": "Julia Watt",
-    "team": null
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "01:19:48:14",
     "event_type": "foul",
     "player": "Berlinger",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:19:55:07",
     "event_type": "counterattack",
     "player": null,
-    "team": "VfL"
+    "team": "VfL",
+    "explanation": "### 19. **Counterattack** (e.g., VfL Bochum launches a counterattack)  \n- **What it means**: A quick attack after winning possession, often catching the opposing team off guard.  \n- **Impact**: Can lead to a scoring opportunity."
   },
   {
     "timestamp": "01:20:54:01",
     "event_type": "offensive foul",
     "player": "Polta",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:21:05:04",
@@ -1392,13 +1594,15 @@
     "timestamp": "01:21:40:28",
     "event_type": "yellow card",
     "player": "Boccon",
-    "team": null
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "01:22:09:15",
     "event_type": "corner",
     "player": null,
-    "team": "Torfeld"
+    "team": "Torfeld",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "01:22:36:07",
@@ -1422,31 +1626,36 @@
     "timestamp": "01:24:08:17",
     "event_type": "defensive play",
     "player": "Herbert Bockhorn",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 18. **Defensive Play** (e.g., Bockhorn defends)  \n- **What it means**: Actions like tackling, blocking, or intercepting to stop the opposing team.  \n- **Impact**: Prevents goals and regains possession."
   },
   {
     "timestamp": "01:24:18:06",
     "event_type": "corner",
     "player": "Brandt",
-    "team": null
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "01:26:14:08",
     "event_type": "shot",
     "player": "Haaland",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "01:26:46:14",
     "event_type": "foul",
     "player": "Polta",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:27:21:16",
     "event_type": "corner",
     "player": null,
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
   },
   {
     "timestamp": "01:28:35:12",
@@ -1458,7 +1667,8 @@
     "timestamp": "01:28:42:26",
     "event_type": "save",
     "player": "Manuel Riemann",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "01:29:34:04",
@@ -1471,168 +1681,195 @@
     "timestamp": "01:29:42:20",
     "event_type": "goal",
     "player": "Reus",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:30:01:19",
     "event_type": "goal",
     "player": "Harland",
     "team": "Dortmund",
-    "details": "Third goal for Harland"
+    "details": "Third goal for Harland",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:31:07:19",
     "event_type": "substitution",
     "player": "Beino Gittens",
     "team": "Dortmund",
-    "details": "Substituted for Felix Baslak"
+    "details": "Substituted for Felix Baslak",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:31:27:00",
     "event_type": "substitution",
     "player": "Pantowicz",
     "team": "Bochum",
-    "details": "Substituted for Holtmann"
+    "details": "Substituted for Holtmann",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:32:09:19",
     "event_type": "injury",
     "player": "Oldmann",
     "team": "Bochum",
-    "details": "Problem with right knee"
+    "details": "Problem with right knee",
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
   },
   {
     "timestamp": "01:32:55:05",
     "event_type": "goal",
     "player": "Reus",
     "team": "Dortmund",
-    "details": "Assist to Harland for 3-2"
+    "details": "Assist to Harland for 3-2",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:33:12:11",
     "event_type": "goal",
     "player": "Harland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:33:47:08",
     "event_type": "substitution",
     "player": "Paslak",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:33:47:08",
     "event_type": "substitution",
     "player": "Baino Gittens",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:34:45:17",
     "event_type": "goal",
     "player": "Harland",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:35:53:24",
     "event_type": "goal",
     "player": "Christopher-Antwi Andrzej",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:37:12:06",
     "event_type": "offside",
     "player": "Anfi Ajey",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
   },
   {
     "timestamp": "01:38:54:21",
     "event_type": "substitution",
     "player": "Soler",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:39:20:15",
     "event_type": "substitution",
     "player": "Asano",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:39:38:08",
     "event_type": "substitution",
     "player": "Zoller",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:39:40:19",
     "event_type": "substitution",
     "player": "Lokadia",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:39:43:00",
     "event_type": "goal",
     "player": "Polta",
-    "team": null
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:40:22:02",
     "event_type": "substitution",
     "player": null,
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:40:23:25",
     "event_type": "substitution",
     "player": null,
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:42:14:20",
     "event_type": "formation",
     "player": null,
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 20. **Formation Change** (e.g., Bochum changes formation)  \n- **What it means**: The team adjusts its player positioning to be more attacking or defensive.  \n- **Impact**: Tactical shift to suit the match situation."
   },
   {
     "timestamp": "01:42:49:21",
     "event_type": "foul",
     "player": "Paslak",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:43:20:00",
     "event_type": "handball",
     "player": null,
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
   },
   {
     "timestamp": "01:43:50:00",
     "event_type": "save",
     "player": "Hitz",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "01:43:57:10",
     "event_type": "header",
     "player": "Zoller",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 17. **Header** (e.g., Zoller attempts a header)  \n- **What it means**: A player uses their head to direct the ball, often toward the goal or a teammate.  \n- **Impact**: A common way to score or pass in aerial situations."
   },
   {
     "timestamp": "01:45:03:21",
     "event_type": "shot",
     "player": "Wolf",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
   },
   {
     "timestamp": "01:45:31:16",
     "event_type": "attack",
     "player": "Harlan",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 19. **Counterattack** (e.g., VfL Bochum launches a counterattack)  \n- **What it means**: A quick attack after winning possession, often catching the opposing team off guard.  \n- **Impact**: Can lead to a scoring opportunity."
   },
   {
     "timestamp": "01:46:00:00",
     "event_type": "foul",
     "player": "Andrija Cey",
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:46:07:14",
@@ -1644,128 +1881,149 @@
     "timestamp": "01:46:23:15",
     "event_type": "goal",
     "player": null,
-    "team": "Hamburger Sportverein"
+    "team": "Hamburger Sportverein",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:48:52:29",
     "event_type": "goal",
     "player": null,
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:48:54:25",
     "event_type": "goal",
     "player": null,
-    "team": "Bochum"
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:48:59:10",
     "event_type": "goal",
     "player": "Lokadia",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:50:18:23",
     "event_type": "foul",
     "player": "Maršović",
-    "team": null
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:50:18:23",
     "event_type": "yellow card",
     "player": "Maršović",
-    "team": null
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "01:51:09:15",
     "event_type": "injury",
     "player": null,
-    "team": "SC Freiburg"
+    "team": "SC Freiburg",
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
   },
   {
     "timestamp": "01:51:17:11",
     "event_type": "substitution",
     "player": "Guerrero",
-    "team": null
+    "team": null,
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:51:17:11",
     "event_type": "substitution",
     "player": "Wolf",
-    "team": null
+    "team": null,
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:51:33:25",
     "event_type": "substitution",
     "player": "Eduard Löwen",
-    "team": "Hertha BSC"
+    "team": "Hertha BSC",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
   },
   {
     "timestamp": "01:52:25:26,01:52:27:26",
     "event_type": "penalty",
     "player": null,
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
   },
   {
     "timestamp": "01:52:45:12,01:52:46:06",
     "event_type": "handball",
     "player": "Witsel",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
   },
   {
     "timestamp": "01:53:13:00,01:53:15:25",
     "event_type": "goal",
     "player": "Pantovic",
-    "team": "VfL Bochum"
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:56:00:00,01:56:01:30",
     "event_type": "yellow card",
     "player": "Tom Rothe",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "01:57:19:29,01:57:21:28",
     "event_type": "goal",
     "player": "Tom Rothe",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:58:16:16",
     "event_type": "goal",
     "player": "Derren Buckley",
-    "team": "Borussia Dortmund"
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:58:29:26",
     "event_type": "goal",
     "player": "Anneka Stropper",
     "team": "Bayern",
-    "score": "4-2"
+    "score": "4-2",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "01:58:50:00",
     "event_type": "foul",
     "player": "René",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "01:59:37:25",
     "event_type": "yellow card",
     "player": "Rote",
-    "team": "Dortmund"
+    "team": "Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "02:00:13:10",
     "event_type": "foul",
     "player": "Papadopoulos",
-    "team": "Stuttgart"
+    "team": "Stuttgart",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
   },
   {
     "timestamp": "02:00:33:21",
     "event_type": "yellow card",
     "player": "Papadopoulos",
-    "team": "Stuttgart"
+    "team": "Stuttgart",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
   },
   {
     "timestamp": "02:01:24:11",
@@ -1776,19 +2034,1289 @@
       "Reus",
       "Wolf",
       "Harland"
-    ]
+    ],
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
   },
   {
     "timestamp": "02:02:33:09",
     "event_type": "goal",
     "player": "Harland",
     "team": "Borussia Dortmund",
-    "score": "3 goals"
+    "score": "3 goals",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   },
   {
     "timestamp": "02:02:39:14",
     "event_type": "goal",
     "team": "VfL Bochum",
-    "score": "4-3"
+    "score": "4-3",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:03:39:03",
+    "event_type": "yellow card",
+    "player": "Can",
+    "team": "Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "00:03:41:24",
+    "event_type": "injury",
+    "player": "Witsel",
+    "team": "Dortmund",
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
+  },
+  {
+    "timestamp": "00:04:24:27",
+    "event_type": "personal event",
+    "player": "Gamboa",
+    "team": "Bochum"
+  },
+  {
+    "timestamp": "00:04:32:00",
+    "event_type": "injury",
+    "player": "Suarez",
+    "team": "Bochum",
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
+  },
+  {
+    "timestamp": "00:08:06:05",
+    "event_type": "kickoff",
+    "team": "Borussia Dortmund",
+    "explanation": "### 1. **Kickoff**  \n- **What it means**: The match begins with one team starting play from the center circle.  \n- **Rule**: The ball must move forward from the center spot, and no player can enter the opponent’s half until the ball is kicked.  \n- **Impact**: The game starts, and both teams aim to score or defend."
+  },
+  {
+    "timestamp": "00:09:00:11",
+    "event_type": "chance",
+    "player": "Pantovic",
+    "team": "Bochum",
+    "explanation": "### 2. **Chance** (e.g., Pantovic creates a chance)  \n- **What it means**: A player gets into a position to score, but it doesn’t result in a goal.  \n- **Impact**: A missed opportunity keeps the game scoreless or unchanged. The opposing team may counterattack."
+  },
+  {
+    "timestamp": "00:09:37:20",
+    "event_type": "offside",
+    "player": "Haaland",
+    "team": "Borussia Dortmund",
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
+  },
+  {
+    "timestamp": "00:10:21:03",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:11:40",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:11:50",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": null,
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
+  },
+  {
+    "timestamp": "00:11:57",
+    "event_type": "penalty",
+    "player": "Molter",
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "00:13:07",
+    "event_type": "goal",
+    "player": "Ponyta",
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:15:29",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:16:01",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": "VfL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
+  },
+  {
+    "timestamp": "00:16:19",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:16:32",
+    "event_type": "assist",
+    "player": "Takuma Asano",
+    "team": "VfL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
+  },
+  {
+    "timestamp": "00:17:49:10",
+    "event_type": "substitution",
+    "player": "Jamie Bynow-Giddens",
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "00:17:52:28",
+    "event_type": "starting lineup",
+    "player": "Jamie Bynow-Giddens",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:18:42:06",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:18:47:17",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:20:27:00",
+    "event_type": "goal",
+    "player": "Asano",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:20:41:05",
+    "event_type": "goal",
+    "player": "Sebastian Bolter",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:22:47:00",
+    "event_type": "goal",
+    "player": "Brandt",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:23:27:14",
+    "event_type": "goal",
+    "player": "Wolfsburg",
+    "team": "Wolfsburg",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:23:40:17",
+    "event_type": "opportunity",
+    "player": "Reus",
+    "team": null
+  },
+  {
+    "timestamp": "00:23:45:00",
+    "event_type": "counterattack",
+    "player": null,
+    "team": "Jens Bochum",
+    "explanation": "### 19. **Counterattack** (e.g., VfL Bochum launches a counterattack)  \n- **What it means**: A quick attack after winning possession, often catching the opposing team off guard.  \n- **Impact**: Can lead to a scoring opportunity."
+  },
+  {
+    "timestamp": "00:24:26:22",
+    "event_type": "handball",
+    "player": "Gamboa",
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "00:25:26:22",
+    "event_type": "penalty",
+    "player": null,
+    "team": "Borussia Dortmund",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "00:26:00:21",
+    "event_type": "goal",
+    "player": "Erling Haaland",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:28:30:07",
+    "event_type": "opportunity",
+    "player": "Brandt",
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:29:53:02",
+    "event_type": "improvement",
+    "player": null,
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "00:30:04:12",
+    "event_type": "free kick",
+    "player": "Marco Reus",
+    "team": null,
+    "explanation": "### 9. **Free Kick** (e.g., Marco Reus takes a free kick)  \n- **What it means**: A team is awarded an unopposed kick after a foul or infringement.  \n- **Rule**: The ball can be kicked directly at goal or passed to a teammate.  \n- **Impact**: A scoring opportunity or a chance to build an attack."
+  },
+  {
+    "timestamp": "00:30:35:24",
+    "event_type": "goal",
+    "player": null,
+    "team": "hosts",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:30:38:02",
+    "event_type": "corner",
+    "player": "Brandt",
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
+  },
+  {
+    "timestamp": "00:31:25:17",
+    "event_type": "yellow card",
+    "player": "Bellinger",
+    "team": "Borussia Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "00:34:05:24",
+    "event_type": "shot",
+    "player": "Reus",
+    "team": "Borussia Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "00:34:09:24",
+    "event_type": "save",
+    "player": "Riemann",
+    "team": "VfL Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
+  },
+  {
+    "timestamp": "00:34:40:07",
+    "event_type": "corner",
+    "player": null,
+    "team": null,
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
+  },
+  {
+    "timestamp": "00:35:45:09",
+    "event_type": "handball",
+    "player": "Rex Bitschai",
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "00:35:52:00",
+    "event_type": "penalty",
+    "player": null,
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "00:36:13:29",
+    "event_type": "handball",
+    "player": "Haaland",
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "00:36:22:25",
+    "event_type": "penalty",
+    "player": "Pantowitsch",
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "00:37:11:21",
+    "event_type": "penalty",
+    "player": "Haaland",
+    "team": "Borussia Dortmund",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "00:37:37:29",
+    "event_type": "goal",
+    "player": "Haaland",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:38:01:19",
+    "event_type": "handball",
+    "player": "Brexwitschheim",
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "00:38:04:00",
+    "event_type": "referee intervention",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "00:38:09:15",
+    "event_type": "goal",
+    "player": "Haaland",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:38:17:21",
+    "event_type": "goal",
+    "player": null,
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:38:41:06",
+    "event_type": "yellow card",
+    "player": "Lucia",
+    "team": "Bochum",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "00:39:06:07",
+    "event_type": "yellow card",
+    "player": "Berlin",
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "00:40:02:05",
+    "event_type": "offside",
+    "player": "Bernd",
+    "team": null,
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
+  },
+  {
+    "timestamp": "00:41:19:28",
+    "event_type": "handball",
+    "player": "Rex Pichai",
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "00:42:13:27",
+    "event_type": "injury",
+    "player": "Marschowitsch",
+    "team": null,
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
+  },
+  {
+    "timestamp": "00:42:29:13",
+    "event_type": "yellow card",
+    "player": "Marszowitsz",
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "00:42:44:08",
+    "event_type": "injury",
+    "player": "Haaland",
+    "team": null,
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
+  },
+  {
+    "timestamp": "00:43:19:04",
+    "event_type": "shot",
+    "player": "Marius Wolf",
+    "team": null,
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "00:43:21:28",
+    "event_type": "assist",
+    "player": "Bellingham",
+    "team": null,
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
+  },
+  {
+    "timestamp": "00:45:00:04",
+    "event_type": "goal",
+    "player": "Haaland",
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:46:04:04",
+    "event_type": "offside",
+    "player": "Haaland",
+    "team": null,
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
+  },
+  {
+    "timestamp": "00:50:29:02",
+    "event_type": "goal",
+    "player": "Holtmann",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:50:30:13",
+    "event_type": "goal",
+    "player": "Bolter",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "00:51:00:13",
+    "event_type": "penalty",
+    "player": "Pantowitsch",
+    "team": "Bochum",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "00:51:01:19",
+    "event_type": "penalty",
+    "player": "Reksmitschei",
+    "team": "Bochum",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "00:51:18:20",
+    "event_type": "penalty",
+    "player": "Haaland",
+    "team": "Dortmund",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "00:51:55:24",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
+  },
+  {
+    "timestamp": "00:51:58:04",
+    "event_type": "1v1",
+    "player": "Marco Reus",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "00:52:07:02",
+    "event_type": "corner",
+    "player": null,
+    "team": "Bochum",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
+  },
+  {
+    "timestamp": "00:52:31:28",
+    "event_type": "corner",
+    "player": "Polter",
+    "team": "Bochum",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
+  },
+  {
+    "timestamp": "00:52:44:30",
+    "event_type": "halftime",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": "00:53:37:23",
+    "event_type": "handball",
+    "player": "Rex Bichai",
+    "team": "Bochum",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "00:53:40:23",
+    "event_type": "handball",
+    "player": "Pantowitsch",
+    "team": "Bochum",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "00:54:00:02",
+    "event_type": "shot",
+    "player": "Wolf",
+    "team": "Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "00:54:05:24",
+    "event_type": "shot",
+    "player": "Holkmann",
+    "team": "Bochum",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "00:54:05:24",
+    "event_type": "shot",
+    "player": "Polter",
+    "team": "Bochum",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "00:55:02:20",
+    "event_type": "pass",
+    "player": "Bellingham",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "00:55:04:19",
+    "event_type": "shot",
+    "player": "Haaland",
+    "team": "Dortmund",
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "00:55:04:19",
+    "event_type": "save",
+    "player": "Riemann",
+    "team": "Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
+  },
+  {
+    "timestamp": "00:59:24:25",
+    "event_type": "match_start",
+    "team": "BVB",
+    "player": null
+  },
+  {
+    "timestamp": "00:59:24:25",
+    "event_type": "match_start",
+    "team": "VfL Bochum",
+    "player": null
+  },
+  {
+    "timestamp": "01:00:49:11",
+    "event_type": "goal",
+    "player": "Polter",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:00:49:12",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": "VfL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
+  },
+  {
+    "timestamp": "01:01:27:10",
+    "event_type": "goal",
+    "player": "Gerrit",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:01:27:11",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": "VfL Bochum",
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
+  },
+  {
+    "timestamp": "01:02:01:22",
+    "event_type": "handball",
+    "player": null,
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "01:02:11:29",
+    "event_type": "penalty",
+    "player": null,
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "01:02:30:11",
+    "event_type": "goal",
+    "player": "Haaland",
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:02:38:14",
+    "event_type": "foul",
+    "player": "Wolf",
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
+  },
+  {
+    "timestamp": "01:02:50:08",
+    "event_type": "foul",
+    "player": null,
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
+  },
+  {
+    "timestamp": "01:02:54:26",
+    "event_type": "handball",
+    "player": null,
+    "team": null,
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "01:03:04:07",
+    "event_type": "penalty",
+    "player": null,
+    "team": null,
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": null,
+    "event_type": "halftime",
+    "player": null,
+    "team": null
+  },
+  {
+    "timestamp": null,
+    "event_type": "match_result",
+    "player": null,
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:04:58:06",
+    "event_type": "goal",
+    "player": "Unknown",
+    "team": "Bayern",
+    "description": "Bayern was defeated at home.",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:11:13:06",
+    "event_type": "goal",
+    "player": "Norweger (likely Erling Haaland)",
+    "team": "Borussia Dortmund",
+    "description": "Scored twice to equalize the match at 2-2 before halftime.",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:12:10:07",
+    "event_type": "injury",
+    "player": "Zagadou",
+    "team": "Borussia Dortmund",
+    "description": "Zagadou warmed up but appeared to have some problems.",
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
+  },
+  {
+    "timestamp": "01:12:47:09",
+    "event_type": "penalty",
+    "player": "Erling Haaland",
+    "team": "Borussia Dortmund",
+    "description": "Scored a cleanly converted hand penalty.",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "01:13:17:06",
+    "event_type": "goal",
+    "player": "Bolter and Holtmann",
+    "team": "VfL Bochum",
+    "description": "Scored two goals to lead 2-0.",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:13:46:09",
+    "event_type": "high pressing and ball recovery",
+    "player": "Asano",
+    "team": "VfL Bochum",
+    "description": "Recovered the ball against Polter and bypassed Akanji."
+  },
+  {
+    "timestamp": "01:14:12:04",
+    "event_type": "foul",
+    "player": "Marschowitsch",
+    "team": "VfL Bochum",
+    "description": "Foul against Erling Haaland.",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
+  },
+  {
+    "timestamp": "01:14:42:26",
+    "event_type": "assist",
+    "player": "Asano",
+    "team": null,
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
+  },
+  {
+    "timestamp": "01:15:00:11",
+    "event_type": "comparison",
+    "player": null,
+    "team": "FC Augsburg"
+  },
+  {
+    "timestamp": "01:15:02:12",
+    "event_type": "mention",
+    "player": [
+      "Andrija Ceyi",
+      "Eduard Löwen"
+    ],
+    "team": null
+  },
+  {
+    "timestamp": "01:15:24:05",
+    "event_type": "nomination",
+    "player": "Sebastian Polter",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:03:22",
+    "event_type": "poor pass",
+    "player": "Guerrero",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:12:25",
+    "event_type": "skill move",
+    "player": "Pantowitsch",
+    "team": null
+  },
+  {
+    "timestamp": "01:16:40:08",
+    "event_type": "ball interception",
+    "player": "Lucia",
+    "team": null
+  },
+  {
+    "timestamp": "01:17:14:00",
+    "event_type": "mention",
+    "player": null,
+    "team": "VfL Bochum"
+  },
+  {
+    "timestamp": "01:17:39:29",
+    "event_type": "mention",
+    "player": null,
+    "team": "Bochumer"
+  },
+  {
+    "timestamp": "01:18:07:28",
+    "event_type": "offside prevention",
+    "player": "Riemann",
+    "team": null,
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
+  },
+  {
+    "timestamp": "01:18:38:09",
+    "event_type": "skill move",
+    "player": "Beino Gittens",
+    "team": null
+  },
+  {
+    "timestamp": "01:19:00:14",
+    "event_type": "mention",
+    "player": "Jamie Milo Gibbons",
+    "team": null
+  },
+  {
+    "timestamp": "01:19:39:07",
+    "event_type": "mention",
+    "player": null,
+    "team": "Ruhrderby"
+  },
+  {
+    "timestamp": "01:19:51:19",
+    "event_type": "assist attempt",
+    "player": "Berlinger",
+    "team": null,
+    "explanation": "### 5. **Assist** (e.g., Asano provides an assist)  \n- **What it means**: A player passes or sets up the ball for a teammate to score.  \n- **Impact**: Highlights teamwork and creativity, leading to a goal."
+  },
+  {
+    "timestamp": "01:19:55:06",
+    "event_type": "counterattack",
+    "player": null,
+    "team": "VfL",
+    "explanation": "### 19. **Counterattack** (e.g., VfL Bochum launches a counterattack)  \n- **What it means**: A quick attack after winning possession, often catching the opposing team off guard.  \n- **Impact**: Can lead to a scoring opportunity."
+  },
+  {
+    "timestamp": "01:20:00:08",
+    "event_type": "defensive play",
+    "player": null,
+    "team": "Borussia Dortmund",
+    "explanation": "### 18. **Defensive Play** (e.g., Bockhorn defends)  \n- **What it means**: Actions like tackling, blocking, or intercepting to stop the opposing team.  \n- **Impact**: Prevents goals and regains possession."
+  },
+  {
+    "timestamp": "01:20:54:01",
+    "event_type": "offensive play",
+    "player": "Polta",
+    "team": null
+  },
+  {
+    "timestamp": "01:21:05:04",
+    "event_type": "good play",
+    "player": "Reus",
+    "team": null
+  },
+  {
+    "timestamp": "01:21:42:20",
+    "event_type": "yellow card",
+    "player": "Boccon",
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "01:22:09:15",
+    "event_type": "corner",
+    "player": null,
+    "team": "Torfeld",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
+  },
+  {
+    "timestamp": "01:22:36:07",
+    "event_type": "defensive block",
+    "player": "Bano Gittens",
+    "team": null
+  },
+  {
+    "timestamp": "01:22:45:09",
+    "event_type": "counter opportunity",
+    "player": "Harland",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:24:00:17",
+    "event_type": "block",
+    "player": "Maxim Bleich",
+    "team": null
+  },
+  {
+    "timestamp": "01:24:08:17",
+    "event_type": "defensive play",
+    "player": "Herbert Bockhorn",
+    "team": "VfL Bochum",
+    "explanation": "### 18. **Defensive Play** (e.g., Bockhorn defends)  \n- **What it means**: Actions like tackling, blocking, or intercepting to stop the opposing team.  \n- **Impact**: Prevents goals and regains possession."
+  },
+  {
+    "timestamp": "01:25:06:13",
+    "event_type": "counter prevention",
+    "player": "Reus",
+    "team": null
+  },
+  {
+    "timestamp": "01:25:15:14",
+    "event_type": "defensive play",
+    "player": "Kamboa",
+    "team": null,
+    "explanation": "### 18. **Defensive Play** (e.g., Bockhorn defends)  \n- **What it means**: Actions like tackling, blocking, or intercepting to stop the opposing team.  \n- **Impact**: Prevents goals and regains possession."
+  },
+  {
+    "timestamp": "01:26:14:09",
+    "event_type": "shot",
+    "player": "Harland",
+    "team": null,
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "01:26:22:10",
+    "event_type": "powerful shot",
+    "player": "Harland",
+    "team": null,
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "01:26:29:01",
+    "event_type": "save",
+    "player": "Manuel",
+    "team": null,
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
+  },
+  {
+    "timestamp": "01:27:00:16",
+    "event_type": "mistake",
+    "player": "Zagadou",
+    "team": null
+  },
+  {
+    "timestamp": "01:27:22:30",
+    "event_type": "corner",
+    "player": null,
+    "team": "VfL Bochum",
+    "explanation": "### 10. **Corner Kick** (e.g., Brandt takes a corner)  \n- **What it means**: A kick from the corner after the defending team puts the ball out of play over their goal line.  \n- **Rule**: The ball is placed in the corner arc and kicked into play.  \n- **Impact**: A chance for the attacking team to create a goal-scoring opportunity."
+  },
+  {
+    "timestamp": "01:28:23:13",
+    "event_type": "individual play",
+    "player": "Reino Gibbons",
+    "team": null
+  },
+  {
+    "timestamp": "01:28:35:12",
+    "event_type": "attempt",
+    "player": "Harland",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:28:42:26",
+    "event_type": "save",
+    "player": "Manuel Riemann",
+    "team": "Bochum",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
+  },
+  {
+    "timestamp": "01:29:34:04",
+    "event_type": "goal",
+    "player": "Reus",
+    "team": "Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:30:01:19",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:31:07:19",
+    "event_type": "substitution",
+    "player": "Beino Gittens",
+    "team": "Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:31:07:19",
+    "event_type": "substitution",
+    "player": "Felix Baslak",
+    "team": "Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:31:27:00",
+    "event_type": "substitution",
+    "player": "Pantowicz",
+    "team": "Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:31:27:00",
+    "event_type": "substitution",
+    "player": "Holtmann",
+    "team": "Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:32:09:19",
+    "event_type": "injury",
+    "player": "Oldmann",
+    "team": "Bochum",
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
+  },
+  {
+    "timestamp": "01:32:55:05",
+    "event_type": "goal",
+    "player": "Reus",
+    "team": "Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:33:12:11",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:33:47:08",
+    "event_type": "substitution",
+    "player": "Paslak",
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:33:47:08",
+    "event_type": "substitution",
+    "player": "Baino Gittens",
+    "team": "Borussia Dortmund",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:34:45:17",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:35:53:24",
+    "event_type": "goal",
+    "player": "Christopher-Antwi Andrzej",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:36:23:11",
+    "event_type": "injury",
+    "player": "Pino Raiola",
+    "team": null,
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
+  },
+  {
+    "timestamp": "01:37:14:16",
+    "event_type": "offside",
+    "player": "Anfi Ajey",
+    "team": "VfL Bochum",
+    "explanation": "### 3. **Offside** (e.g., Haaland caught offside)  \n- **What it means**: A player is ahead of the last defender when the ball is passed to them.  \n- **Rule**: A player must be level with or behind the second-to-last defender when receiving the ball.  \n- **Impact**: The referee stops play, and the opposing team gets a free kick."
+  },
+  {
+    "timestamp": "01:38:54:21",
+    "event_type": "substitution",
+    "player": "Asano",
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:38:54:21",
+    "event_type": "substitution",
+    "player": "Zoller",
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:38:54:21",
+    "event_type": "substitution",
+    "player": "Lokadia",
+    "team": "VfL Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:39:43:00",
+    "event_type": "goal",
+    "player": "Polta",
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:39:45:05",
+    "event_type": "injury",
+    "player": "Sola",
+    "team": null,
+    "explanation": "### 16. **Injury** (e.g., Haaland injured)  \n- **What it means**: A player is hurt and may need medical attention or substitution.  \n- **Impact**: The team may lose a key player or momentum."
+  },
+  {
+    "timestamp": "01:40:19:21",
+    "event_type": "substitution",
+    "player": null,
+    "team": "Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:40:23:24",
+    "event_type": "substitution",
+    "player": "Thomas Reis",
+    "team": "Bochum",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:43:15:19",
+    "event_type": "handball claim",
+    "player": null,
+    "team": "Bochum",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "01:43:50:00",
+    "event_type": "save",
+    "player": "Marwin Hitz",
+    "team": "Borussia Dortmund",
+    "explanation": "### 7. **Save** (e.g., Riemann makes a save)  \n- **What it means**: The goalkeeper prevents the ball from entering the goal.  \n- **Impact**: Keeps the score unchanged and motivates the defending team."
+  },
+  {
+    "timestamp": "01:43:57:10",
+    "event_type": "header attempt",
+    "player": "Simon Zoller",
+    "team": "Bochum",
+    "explanation": "### 17. **Header** (e.g., Zoller attempts a header)  \n- **What it means**: A player uses their head to direct the ball, often toward the goal or a teammate.  \n- **Impact**: A common way to score or pass in aerial situations."
+  },
+  {
+    "timestamp": "01:45:03:21",
+    "event_type": "shot",
+    "player": "Berlinge",
+    "team": null,
+    "explanation": "### 15. **Shot** (e.g., Wolf takes a shot)  \n- **What it means**: A player attempts to score by kicking or heading the ball toward the goal.  \n- **Impact**: Can result in a goal, a save, or the ball going out of play."
+  },
+  {
+    "timestamp": "01:45:31:16",
+    "event_type": "attack",
+    "player": "Harlan",
+    "team": "Borussia Dortmund",
+    "explanation": "### 19. **Counterattack** (e.g., VfL Bochum launches a counterattack)  \n- **What it means**: A quick attack after winning possession, often catching the opposing team off guard.  \n- **Impact**: Can lead to a scoring opportunity."
+  },
+  {
+    "timestamp": "01:46:00:00",
+    "event_type": "foul",
+    "player": "Pantovic",
+    "team": "Bochum",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
+  },
+  {
+    "timestamp": "01:46:07:14",
+    "event_type": "comeback",
+    "player": null,
+    "team": "Borussia Dortmund"
+  },
+  {
+    "timestamp": "01:46:23:15",
+    "event_type": "goal",
+    "player": null,
+    "team": "Hamburger Sportverein",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:48:33:10",
+    "event_type": "goal",
+    "player": "Luka Nia",
+    "team": null,
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:48:52:29",
+    "event_type": "goal",
+    "player": null,
+    "team": "Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:49:01:07",
+    "event_type": "goal",
+    "player": "Lokadia",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:50:18:23",
+    "event_type": "foul",
+    "player": "Maršović",
+    "team": null,
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
+  },
+  {
+    "timestamp": "01:50:24:19",
+    "event_type": "yellow card",
+    "player": "Maršović",
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "01:51:09:15",
+    "event_type": "match event",
+    "player": null,
+    "team": "SC Freiburg"
+  },
+  {
+    "timestamp": "01:51:17:11",
+    "event_type": "substitution",
+    "player": "Guerrero",
+    "team": null,
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:51:17:11",
+    "event_type": "substitution",
+    "player": "Wolf",
+    "team": null,
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:51:33:25",
+    "event_type": "substitution",
+    "player": "Eduard Löwen",
+    "team": "Hertha BSC",
+    "explanation": "### 12. **Substitution** (e.g., Bynow-Giddens substituted for Dortmund)  \n- **What it means**: A new player replaces an existing one on the field.  \n- **Rule**: Each team can make up to five substitutions in most competitions.  \n- **Impact**: Fresh energy, tactical changes, or injury replacement."
+  },
+  {
+    "timestamp": "01:52:25:26",
+    "event_type": "penalty",
+    "player": null,
+    "team": "VfL Bochum",
+    "explanation": "### 6. **Penalty** (e.g., Molter wins a penalty)  \n- **What it means**: A free shot at goal from the penalty spot after a foul in the penalty area.  \n- **Rule**: Only the goalkeeper can defend, and the kicker must shoot directly at goal.  \n- **Impact**: High chance of scoring, often game-changing."
+  },
+  {
+    "timestamp": "01:52:45:12",
+    "event_type": "handball",
+    "player": "Witsel",
+    "team": "Borussia Dortmund",
+    "explanation": "### 14. **Handball** (e.g., Witsel commits a handball)  \n- **What it means**: A player touches the ball with their hand or arm intentionally.  \n- **Rule**: Only the goalkeeper can use their hands inside the penalty area.  \n- **Impact**: Leads to a free kick or penalty for the opposing team."
+  },
+  {
+    "timestamp": "01:53:13:28",
+    "event_type": "goal",
+    "player": "Pantowitsch",
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:56:00:23",
+    "event_type": "yellow card",
+    "player": "Tom Rote",
+    "team": "Borussia Dortmund",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "01:57:19:29",
+    "event_type": "goal",
+    "player": "Tom Rote",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:58:16:16",
+    "event_type": "goal",
+    "player": "Derren Buckley",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:58:29:26",
+    "event_type": "goal",
+    "player": "Anneka Stropper",
+    "team": "Bayern",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "01:58:52:04",
+    "event_type": "red card",
+    "player": "René",
+    "team": "Dortmund"
+  },
+  {
+    "timestamp": "01:59:37:25",
+    "event_type": "yellow card",
+    "player": "Rote",
+    "team": null,
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "02:00:13:10",
+    "event_type": "foul",
+    "player": "Papadopoulos",
+    "team": "Stuttgart",
+    "explanation": "### 13. **Foul** (e.g., Holtmann commits a foul)  \n- **What it means**: A player breaks the rules by tripping, pushing, or tackling unfairly.  \n- **Impact**: The opposing team gets a free kick or penalty, depending on where the foul occurred."
+  },
+  {
+    "timestamp": "02:00:33:21",
+    "event_type": "yellow card",
+    "player": "Papadopoulos",
+    "team": "Stuttgart",
+    "explanation": "### 11. **Yellow Card** (e.g., Bellingham receives a yellow card)  \n- **What it means**: A warning for unsportsmanlike behavior or a reckless foul.  \n- **Rule**: Two yellow cards lead to a red card and expulsion.  \n- **Impact**: The player must be cautious to avoid further infractions."
+  },
+  {
+    "timestamp": "02:02:39:13",
+    "event_type": "goal",
+    "player": "Harland",
+    "team": "Borussia Dortmund",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
+  },
+  {
+    "timestamp": "02:02:39:13",
+    "event_type": "goal",
+    "player": null,
+    "team": "VfL Bochum",
+    "explanation": "### 4. **Goal** (e.g., Polter scores)  \n- **What it means**: The ball crosses the goal line between the posts and under the crossbar.  \n- **Rule**: The entire ball must cross the line, and no fouls or offsides can occur during the play.  \n- **Impact**: The scoring team takes the lead or equalizes. The opposing team restarts with a kickoff."
   }
 ]
