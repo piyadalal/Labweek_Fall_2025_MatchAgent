@@ -4,10 +4,41 @@ from dotenv import load_dotenv
 from google import genai
 import vertexai
 from vertexai.preview.vision_models import ImageGenerationModel
+from pathlib import Path
+from typing import List, Tuple, Optional
+
+IMAGE_EXTS = {".png", ".jpg", ".jpeg", ".webp", ".gif"}
 
 OUTPUT_FILENAME = ""
 OUTPUT_FOLDER = "outputs"
 OUTPUT_SUBFOLDER = ""
+
+from pathlib import Path
+
+# Global base directory
+BASE_DIR = Path(OUTPUT_FOLDER)
+
+
+def load_outputs(folder_name):
+    """
+    Returns (images, text_content) from /outputs/<folder_name>.
+
+    - images: list[Path] of image files directly under the folder (sorted)
+    - text_content: contents of "<folder_name>_prompt.txt" or None if missing
+    """
+    base = BASE_DIR / folder_name
+    if not base.exists() or not base.is_dir():
+        raise FileNotFoundError(f"Folder not found: {base}")
+
+    # Collect images at top level
+    images = sorted([p for p in base.iterdir() if p.is_file() and p.suffix.lower() in IMAGE_EXTS])
+
+    # Read the specific prompt file if present
+    prompt_path = base / f"{folder_name}_prompt.txt"
+    text_content = prompt_path.read_text(encoding="utf-8", errors="replace") if prompt_path.is_file() else None
+
+    return images, text_content
+
 
 def get_vertex_ai_content(prompt, key):
     PROJECT_ID = "gen-lang-client-0739157236"
@@ -201,7 +232,7 @@ with col_right:
             # Display a mock image related to the first term found
             first_term = matches[0][0]
 
-            st.subheader(f"Visual Context for: **{first_term}**")
+            # st.subheader(f"Visual Context for: **{first_term}**")
 
             # --- Dynamic Placeholder Image Logic ---
             # Determine the sport of the first matched term for a thematic placeholder
@@ -213,27 +244,33 @@ with col_right:
                 image_tag = "F1 Track Scenario"
             else:
                 image_tag = "Generic Match Scenario"
+            images, text = load_outputs(first_term)
+            basic_explanation = text.strip() if text else ""
+            for idx, image in enumerate(images, start=1):
+                # st.markdown(f"#### Illustration {idx} for '{first_term}'")
+                basic_explanation += f"Give me a sentence of basic explanation for Image '{idx}'"
+                print(basic_explanation)
+                gemini_text = get_gemini_client(basic_explanation)
+                st.markdown(f"#### {gemini_text}")
+                st.image(str(image), caption=f"{first_term} {idx}")
 
-            # Using st.image with a URL or tag (we'll use a URL placeholder here)
-            st.image(f"https://placehold.co/600x300/4c7c8c/ffffff?text={image_tag.replace(' ', '+')}",
-                     caption=f"Visual Example of '{first_term}'")
 
             st.markdown("---")
             st.subheader("Search Results")
 
             for key, explanation in matches:
-                st.markdown(f"**{key}:** {explanation}")
+                # st.markdown(f"**{key}:** {explanation}")
                 standard_text = (f"Explain the term '{key}' like '{explanation}' in simple terms suitable for someone"
                                  f"unfamiliar with sports rules. Generate a few sentences. Use that info as input to "
                                  f"create for max 3 images that Vertex AI illustrate the concept. Describe each image "
                                  f"in a sentence or two, ensuring they clearly show relevant players, the ball, and any "
                                  f"key boundary lines or zones involved in the rule. Images can be diagrams, illustrations, "
                                  f"or simple scenes that help visualize the rule.")
-                gemini_text = get_gemini_client(standard_text)
-                print(gemini_text)
+                # gemini_text = get_gemini_client(standard_text)
+                # print(gemini_text)
                 # generated_text, image_urls = get_vertex_ai_content(gemini_text, key)
-                st.markdown("#### AI Explanation")
-                st.markdown(gemini_text)
+                # st.markdown("#### AI Explanation")
+                # st.markdown(gemini_text)
 
                 # for img_url in image_urls:
                     # st.image(img_url, caption=f"Illustration for '{key}'")
@@ -245,35 +282,3 @@ with col_right:
         st.info("Click **Search Rules** to display results.")
 
 
-if __name__ == "__main__":
-    #key = "Offside"
-    # explanation = "Occurs when an attacking player is nearer to the opponent's goal line than both the ball and second-last defender at the moment the ball is passed to them."
-    # The new, safer instruction in the prompt:
-    for key, explanation in football_terms.items():
-        standard_text = (f"Explain the term '{key}' like '{explanation}' in simple terms suitable for someone"
-                     f"unfamiliar with sports rules. Generate a few sentences. Use that info as input to "
-                     f"create for max 3 images that Vertex AI illustrate the concept. Describe each image "
-                     f"in a sentence or two, ensuring they clearly show relevant players, the ball, and any "
-                     f"key boundary lines or zones involved in the rule. Images can be diagrams, illustrations, "
-                     f"or simple scenes that help visualize the rule."
-                     )
-        standard_text += (
-        " Ensure the descriptions are clear and concise."
-        " Do not create images with people."
-        " Do not create images with text."
-        " Avoid complex scenes; keep it simple and clear."
-        " Focus on the main elements needed to understand the rule."
-        " Use arrows, lines, and shapes to highlight important aspects."
-        " Avoid any depiction of violence or aggression."
-        " Keep the illustrations educational and neutral."
-        )
-        gemini_text = get_gemini_client(standard_text)
-        print(gemini_text)
-        get_vertex_ai_content(gemini_text, key)
-    gemini_text = (
-        "Minimalistic schematic, top-down view of a solid green football field with a white goal frame on the right, "
-        "no crowd or stadium. Use simple geometric shapes: dark square (defender) in front of the goal, red triangle "
-        "(attacker) to the left and further from goal, yellow circle (ball) even further left. A faint, dashed line "
-        "extends from the defender towards the goal, indicating the offside line. The attacking player is clearly behind"
-        " this line. High contrast, labeled elements, vector style, no extraneous detail.")
-    # get_vertex_ai_content(gemini_text, key)
