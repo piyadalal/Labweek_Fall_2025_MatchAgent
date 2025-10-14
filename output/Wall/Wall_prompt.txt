@@ -1,0 +1,7 @@
+In some team sports, when a player gets a "free kick" – meaning they get to kick the ball without an opponent immediately challenging them – the opposing team isn't allowed to stand right next to the ball. Instead, they line up a set distance away, often shoulder-to-shoulder, forming a "wall." This group of players acts as a barrier, aiming to block the ball's path towards their goal if the kick is aimed that way.
+
+Here are descriptions for images illustrating this concept:
+
+1.  **Image 1:** A green field with two vertical lines representing a goal. A small black circle is the ball. Several upright, vertical blue rectangular shapes are lined up horizontally in a row, positioned between the ball and the goal, forming a 'wall'.
+2.  **Image 2:** A green field with a goal (two vertical lines). A black circle is the ball. A line of blue rectangular shapes forms a 'wall'. A dashed line extends from the ball towards the goal, ending abruptly at one of the blue rectangular shapes, illustrating a blocked path.
+3.  **Image 3:** A green field with a goal (two vertical lines) and a black circle as the ball. A line of blue rectangular shapes forms a 'wall'. A wide, dashed semi-circle or arc is drawn around the ball, and the entire 'wall' of shapes is positioned clearly outside this arc, indicating a minimum distance.

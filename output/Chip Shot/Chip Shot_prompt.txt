@@ -1,0 +1,12 @@
+A 'chip shot' is when a player kicks the ball with a gentle touch from underneath, making it fly high in a curved path. This is often done to lift the ball over an opponent, like a goalkeeper, so it can fall into the goal.
+
+Here are descriptions for images that illustrate this concept:
+
+**Image 1:**
+A simple soccer field outline. A small circle represents the ball on the field, with a tiny dot behind it indicating the origin point of the shot. A rectangular zone is placed in front of the goal, representing the goalkeeper's area. The goal line and penalty box lines are visible.
+
+**Image 2:**
+Building on the previous image, a dotted curved line represents the ball's path. This line starts from the ball's initial position, arcs high *over* the rectangular goalkeeper zone, and then descends towards the goal. A small circle at the peak of the arc shows the ball's highest point.
+
+**Image 3:**
+The ball is now depicted as a small circle inside the goal net. The dotted curved line from the previous image continues to show the path that led the ball over the goalkeeper's zone and into the goal. This image confirms the successful outcome of the chip shot.

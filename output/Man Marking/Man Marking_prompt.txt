@@ -1,0 +1,9 @@
+Man marking is a defensive strategy where each defender is given a specific opponent to closely follow and guard. Think of it like a defender being assigned as a 'personal shadow' to one attacking player, making it hard for that attacker to get the ball or make a play.
+
+Here are descriptions for three images illustrating this concept:
+
+1.  A simple rectangular field shows three pairs of players: blue squares (defenders) are positioned very close to and paired with red circles (attackers). Each square is directly assigned to one circle, illustrating distinct individual matchups. A single white ball rests on the field, separate from the pairs.
+
+2.  On a section of the field, a blue square (defender) is shown closely trailing a red circle (attacker). An arrow indicates the red circle's movement path, while another arrow shows the blue square mirroring that movement, always staying between the attacker and a nearby white ball.
+
+3.  A blue square (defender) is positioned directly in the path between an incoming white ball and its assigned red circle (attacker). A dashed line shows the ball's trajectory, clearly indicating the blue square is blocking the path to the red circle.

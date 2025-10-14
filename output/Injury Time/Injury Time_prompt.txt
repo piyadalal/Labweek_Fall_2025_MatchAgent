@@ -1,0 +1,12 @@
+'Injury Time' is extra time added at the end of each half of a sports game. This is done to make up for any playing time lost due to various stoppages that occur during the game, such as player injuries, substitutions, or other delays. Its purpose is to ensure that the game gets its full intended amount of actual play, as opposed to time when the clock is running but the ball isn't in play.
+
+Here are descriptions for images illustrating 'Injury Time':
+
+**Image 1: Regular Play Duration**
+A green rectangular playing field is shown with white boundary lines. A small, yellow ball is positioned in the center, with a dashed arrow indicating its active movement path across the field. Below the field, a solid horizontal gray bar represents the smooth and continuous flow of standard playing time for a half.
+
+**Image 2: Stoppage in Play**
+The same green playing field is depicted, but now the yellow ball is stationary near a white boundary line, enclosed within a red dashed circle to highlight a pause. The continuous gray bar below the field is interrupted by a visible red-highlighted gap, illustrating a break or stoppage in the ongoing game time.
+
+**Image 3: Additional Time Added**
+The green playing field again shows the yellow ball in motion with a dashed arrow, signifying that play has resumed. Below the field, the gray bar now clearly displays the original regular time, followed by the red-highlighted stoppage, and then a distinct green segment extending beyond the original end of the bar, representing the 'additional' time added to compensate for the delay.

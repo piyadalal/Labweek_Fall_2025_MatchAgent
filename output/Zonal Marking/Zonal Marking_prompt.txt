@@ -1,0 +1,9 @@
+Zonal marking is a defensive strategy where each defender covers a specific area or 'zone' of the field, rather than staying with a single opposing player. If an opponent enters a defender's zone, that defender takes responsibility for them. This helps the defense stay organized and cover key spaces on the field.
+
+Here are descriptions for images illustrating 'Zonal Marking':
+
+**Image 1:** A top-down diagram of a rectangular playing field, subtly outlined. The field is divided into several distinct, equal rectangular 'zones' by faint dashed lines. Each zone contains a blue circular 'defender' shape positioned centrally. A few red triangular 'opponent' shapes are positioned outside these zones, and a small white circle representing the ball is also outside the marked zones.
+
+**Image 2:** The same rectangular playing field diagram with the defined zones and blue circular defenders in their respective areas. One red triangular 'opponent' shape has moved into one of the zones, now positioned near the blue defender in that zone. A dotted line connects this blue defender to the red opponent, indicating engagement. The small white circle (ball) is located near this engaged pair within the zone.
+
+**Image 3:** A diagram of the rectangular playing field, again showing the divided zones. Multiple red triangular 'opponent' shapes are now spread across different zones within the field. Each blue circular 'defender' shape is positioned within its assigned zone, and a dotted line connects any defender to an opponent currently within their specific zone, illustrating who is responsible for whom. The small white circle (ball) is positioned near an opponent in one of the zones.

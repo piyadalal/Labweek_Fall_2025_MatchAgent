@@ -1,0 +1,21 @@
+An Indirect Free Kick is a special penalty kick in a game where, after the initial kick is taken, the ball must be touched by *any* other player – a teammate or an opponent – before it can enter the goal and count as a score. You cannot score directly from the initial kick itself; it requires that second touch to become a valid goal.
+
+Here are the descriptions for 3 images illustrating this concept:
+
+---
+
+**Image 1: The Setup and Mandatory Pass**
+
+A top-down view of a soccer field segment near the goal. Goalposts are depicted as two vertical lines connected by a horizontal line. A small circle represents the soccer ball, positioned for a free kick. A larger blue circle represents the first player (kick-taker). A larger green circle represents a second player (receiver). A solid arrow points from the blue circle to the ball. A thick, dashed arrow then extends from the ball towards the green circle, indicating the required initial pass. A thin, dotted gray line goes directly from the ball towards the goal, with a small red 'X' mark positioned over the goal mouth on this line, visually indicating that a direct shot from this position is not allowed to score.
+
+---
+
+**Image 2: The Required Touch and Follow-up Play**
+
+The same soccer field segment near the goal. The soccer ball is now positioned directly next to the green circle player, indicating the ball has been touched by this player. A new solid arrow originates from the green circle, passes through the ball, and extends directly towards the goal, showing a valid shot attempt *after* the required initial touch. There is no 'X' mark over the goal in this image, implying this path is now allowed to score.
+
+---
+
+**Image 3: The Valid Score**
+
+The same soccer field segment with the goalposts clearly visible. The small soccer ball is now depicted inside the goal net. A large, bright green checkmark symbol is positioned above the goal, signifying that a valid goal has been scored following the indirect free kick rule, after the ball was touched by another player as illustrated in the previous steps.

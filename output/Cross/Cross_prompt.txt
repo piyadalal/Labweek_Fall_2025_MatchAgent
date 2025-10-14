@@ -1,0 +1,12 @@
+In many field sports, a "cross" is when a player kicks or passes the ball from near the side boundary of the playing area, sending it across the field towards a special scoring zone near the opponent's goal. The main purpose is to deliver the ball to a teammate who is already in that scoring zone, creating a clear opportunity for them to quickly try and score. It's essentially a long, arcing pass designed to set up a shot on goal.
+
+Here are descriptions for 3 illustrative images:
+
+**Image 1: The Starting Position**
+A green rectangular field with white boundary lines. A white rectangular penalty box is marked near one end, with a simple goal line behind it. A yellow circle, representing a player, is positioned close to the side boundary line of the field. A small orange circle, representing the ball, is next to the yellow player circle.
+
+**Image 2: The Ball in Flight**
+The same green field with white lines and penalty box. The yellow player circle remains near the side boundary. A curved white arrow originates from the yellow player, sweeping across the field towards the penalty box. The small orange ball circle is shown in mid-air along this curved arrow, illustrating its trajectory.
+
+**Image 3: The Target Zone**
+The same green field, lines, and penalty box. The yellow player circle is still near the side boundary. The small orange ball circle has now landed inside the white penalty box. A blue circle, representing another teammate player, is also positioned inside the penalty box, near where the ball has landed.

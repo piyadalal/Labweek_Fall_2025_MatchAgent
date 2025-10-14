@@ -1,0 +1,9 @@
+A 'Through Ball' is a clever pass in sports like soccer where a player kicks the ball *between* opposing defenders, aiming for an empty space *behind* them. The idea is that a teammate can then run into that open area to collect the ball, bypassing the defense and continuing the attack.
+
+Here are descriptions for three images illustrating this concept:
+
+1.  A simple diagram on a green field. Two blue circular shapes represent opposing defenders, positioned with a visible gap between them along a horizontal white line. A red circular shape (passer) holds a small white ball, preparing to send it forward towards the gap.
+
+2.  The white ball is now in motion, depicted by a dashed line with an arrow, traveling directly through the narrow space between the two blue defenders. A red triangular shape (teammate) begins to run forward, indicated by a short curved arrow, anticipating the ball's arrival into the space.
+
+3.  The white ball has successfully reached the open space behind the blue defenders. The red triangular shape (teammate) has continued its run and is now positioned close to the ball, ready to control it in the advantageous forward area.

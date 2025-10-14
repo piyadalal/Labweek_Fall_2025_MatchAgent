@@ -1,0 +1,12 @@
+Imagine a game being played on a designated area with a specific number of active participants. 'Substitution' is when one of these active participants leaves the playing area, and another participant, who was waiting 'off the field' (like on a 'bench'), enters the playing area to take their place. This swap ensures the team always has the correct number of participants playing, but with a different individual, perhaps for fresh energy or a new strategy.
+
+Here are descriptions for three images illustrating this concept:
+
+1.  **Image 1: Initial State**
+    A rectangular playing area is shown with several circular shapes representing active players inside it. A small sphere representing the 'ball' is also within the playing area. Adjacent to the main playing area, a separate rectangular 'bench' zone contains other circular shapes, representing players waiting to participate.
+
+2.  **Image 2: The Swap - Mid-Substitution**
+    The same playing area is shown. One active player (a circle) is depicted moving towards a specific marked boundary line on the edge of the playing area, indicated by an arrow pointing outwards. Simultaneously, another player (a circle) from the 'bench' zone is moving towards the same boundary line, with an arrow pointing inwards, indicating they are about to enter.
+
+3.  **Image 3: Final State - Post-Substitution**
+    The playing area is now shown with the new player (a circle) fully inside it, integrated with the other active players. The player who left the field is now depicted back in the 'bench' zone. The total number of active players within the main playing area remains the same, demonstrating a completed swap.
